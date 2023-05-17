@@ -2,6 +2,26 @@
 		"Selling": {
 			"SellingList": [
 				{
+					"Price":"350000000",
+					"Type":[
+						"Regular"
+					],
+					"Pet":"593"
+				},
+				{
+					"Price":"150000000",
+					"Type":[
+						"Regular"
+					],
+					"Pet":"594"
+				},
+				{
+					"Price":"220000000",
+				 "Type":[
+					 "Regular"
+				 ],
+					"Pet":"595"}
+				{
 					"Price": "1150000000",
 					"Type": [
 						"Regular"
