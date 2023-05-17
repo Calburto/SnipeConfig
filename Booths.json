@@ -1,26 +1,27 @@
-{"Booths": {
+{
+	"Booths": {
 		"Selling": {
-			"SellingList": [
-				{
-					"Price":"350000000",
-					"Type":[
+			"SellingList": [{
+					"Price": "350000000",
+					"Type": [
 						"Regular"
 					],
-					"Pet":"593"
+					"Pet": "593"
 				},
 				{
-					"Price":"150000000",
-					"Type":[
+					"Price": "150000000",
+					"Type": [
 						"Regular"
 					],
-					"Pet":"594"
+					"Pet": "594"
 				},
 				{
-					"Price":"220000000",
-				 "Type":[
-					 "Regular"
-				 ],
-					"Pet":"595"}
+					"Price": "220000000",
+					"Type": [
+						"Regular"
+					],
+					"Pet": "595"
+				},
 				{
 					"Price": "1150000000",
 					"Type": [
@@ -1320,8 +1321,7 @@
 			"StartSnipingPet": true,
 			"MinPriceToSnipe": "2",
 			"BlackList": [],
-			"SnipingList": [
-				{
+			"SnipingList": [{
 					"SnipeRarity": false,
 					"GemsUnder": "1000000001",
 					"Rarity": "None",
@@ -1508,4 +1508,4 @@
 			]
 		}
 	}
-  }
+}
