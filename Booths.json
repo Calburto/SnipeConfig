@@ -1316,7 +1316,7 @@
 		},
 		"Sniping": {
 			"AutoRapBuy": false,
-			"WaitAfterTP": "0.2",
+			"WaitAfterTP": "0.25",
 			"HopAfterHuge": true,
 			"StartSnipingPet": true,
 			"MinPriceToSnipe": "2",
