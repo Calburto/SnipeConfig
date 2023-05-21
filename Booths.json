@@ -1306,12 +1306,12 @@
 			"StartSellingPet": true
 		},
 		"Extra": {
-			"MinimumPlayers": "40",
-			"BoothServerHopTime": "25",
+			"MinimumPlayers": "30",
+			"BoothServerHopTime": "999",
 			"HopToMaxPing": "100",
 			"HopToMinFps": "30",
 			"BoothServerHop": true,
-			"BoothServerHopTimeMax": "35",
+			"BoothServerHopTimeMax": "999",
 			"TeleportToBooth": true
 		},
 		"Sniping": {
@@ -1319,7 +1319,6 @@
 			"WaitAfterTP": "0.25",
 			"HopAfterHuge": true,
 			"StartSnipingPet": true,
-			"MinPriceToSnipe": "2",
 			"BlackList": [],
 			"SnipingList": [{
 					"SnipeRarity": false,
