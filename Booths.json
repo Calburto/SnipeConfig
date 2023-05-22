@@ -1308,7 +1308,7 @@
 		"Extra": {
 			"MinimumPlayers": "30",
 			"BoothServerHopTime": "999",
-			"HopToMaxPing": "100",
+			"HopToMaxPing": "250",
 			"HopToMinFps": "30",
 			"BoothServerHop": true,
 			"BoothServerHopTimeMax": "999",
