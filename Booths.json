@@ -2,6 +2,13 @@
 	"Booths": {
 		"Selling": {
 			"SellingList": [{
+					"Price": "4000000000",
+					"Type": [
+						"Regular"
+					],
+					"Pet": "1031"
+				},
+				{
 					"Price": "350000000",
 					"Type": [
 						"Regular"
@@ -1321,6 +1328,14 @@
 			"StartSnipingPet": true,
 			"BlackList": [],
 			"SnipingList": [{
+					"SnipeRarity": false,
+					"GemsUnder": "1500000000",
+					"Rarity": "None",
+					"Pet": "1031",
+					"SnipeUnder": true,
+					"Type": ["Any"]
+				},
+				{
 					"SnipeRarity": false,
 					"GemsUnder": "1000000001",
 					"Rarity": "None",
