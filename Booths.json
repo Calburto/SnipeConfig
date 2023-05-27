@@ -1306,12 +1306,12 @@
 			"StartSellingPet": true
 		},
 		"Extra": {
-			"MinimumPlayers": "20",
-			"BoothServerHopTime": "15",
+			"MinimumPlayers": "25",
+			"BoothServerHopTime": "99",
 			"HopToMaxPing": "250",
 			"HopToMinFps": "30",
 			"BoothServerHop": true,
-			"BoothServerHopTimeMax": "25",
+			"BoothServerHopTimeMax": "99",
 			"TeleportToBooth": true
 		},
 		"Sniping": {
