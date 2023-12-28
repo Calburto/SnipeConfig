@@ -147,8 +147,8 @@
 {"Class":"Lootbox","Id":"X-Large Christmas Present","UnitPrice":105000,"MaxStackSize":5}
 ],"autoMultipliers":{"enableHC":true,"HCmulti":"3","enableSH":true,"SHmulti":"2","enableG":true,"Gmulti":"2.5","enableRB":true,"RBmulti":"6.5","enableDM":true,"DMmulti":"15"},"StartSellingPet":true},"Extra":{"MinimumPlayers":"20","BoothServerHopTime":"30","HopToMaxPing":"500","HopToMinFps":"10","BoothServerHop":true,"BoothServerHopTimeMax":"75","TeleportToBooth":true},"Sniping":{"WaitAfterTP":"0.20","AutoRapBuy":false,"MinimumGemsWarning":"50000","HopAfterHuge":true,"StartSnipingPet":true,
 "SnipingList":[
-{"Class":"Pet","IsHuge":true,"MaxUnitPrice":600000}, 
-{"Class":"Pet","IsTitanic":true,"MaxUnitPrice":1000000},
+{"Class":"Pet","IsHuge":true,"MaxUnitPrice":1000000}, 
+{"Class":"Pet","IsTitanic":true,"MaxUnitPrice":5000000},
 {"Class":"Pet","Rarity":["Exclusive"],"MaxUnitPrice":25000},
 {"Class":"Egg","Rarity":["Exclusive"],"MaxUnitPrice":100000},
 {"Class":"Lootbox","Id":"Titanic Christmas Present","MaxUnitPrice":100000},
