@@ -38,7 +38,7 @@
                     "Class": "Egg",
                     "Id": "Exclusive Egg 21",
                     "UnitPrice": 6000000
-                },
+                }, 
                 {
                     "Class": "Pet",
                     "Id": "Vibrant Cobra",
@@ -777,12 +777,6 @@
                 },
                 {
                     "Class": "Misc",
-                    "Id": "Hot Cocoa",
-                    "UnitPrice": 636,
-                    "MaxStackSize": 1000
-                },
-                {
-                    "Class": "Misc",
                     "Id": "Insta-Plant Capsule",
                     "UnitPrice": 2370,
                     "MaxStackSize": 10
@@ -850,6 +844,11 @@
                     "Rarity": [
                         "Exclusive"
                     ]
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Booth Slot Voucher",
+                    "MaxUnitPrice": 200001
                 },
                 {
                     "Class": "Egg",
