@@ -27,7 +27,7 @@
                     "Class": "Fruit",
                     "Id": "Rainbow",
                     "UnitPrice": 529,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Egg",
@@ -42,581 +42,587 @@
                 {
                     "Class": "Pet",
                     "Id": "Vibrant Cobra",
-                    "UnitPrice": 144,
-                    "MaxStackSize": 1000
+                    "UnitPrice": 125,
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Pet",
                     "Id": "Vibrant Cobra",
                     "IsGolden": true,
-                    "UnitPrice": 429,
-                    "MaxStackSize": 1000
+                    "UnitPrice": 250,
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Pet",
                     "Id": "Vibrant Cobra",
                     "IsRainbow": true,
-                    "UnitPrice": 635,
-                    "MaxStackSize": 1000
+                    "UnitPrice": 494,
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Pet",
                     "Id": "Vibrant Toucan",
-                    "UnitPrice": 1230,
-                    "MaxStackSize": 1000
+                    "UnitPrice": 1050,
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Pet",
                     "Id": "Vibrant Toucan",
                     "IsGolden": true,
-                    "UnitPrice": 1000,
-                    "MaxStackSize": 3380
+                    "UnitPrice": 1420,
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Pet",
                     "Id": "Vibrant Toucan",
                     "IsRainbow": true,
-                    "UnitPrice": 28600,
-                    "MaxStackSize": 1000
+                    "UnitPrice": 20400,
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Coins",
                     "Tier": 1,
                     "UnitPrice": 49,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Coins",
                     "Tier": 2,
                     "UnitPrice": 105,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Coins",
                     "Tier": 3,
                     "UnitPrice": 214,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Coins",
                     "Tier": 4,
                     "UnitPrice": 1970,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Coins",
                     "Tier": 5,
                     "UnitPrice": 5740,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Coins",
                     "Tier": 6,
                     "UnitPrice": 22900,
-                    "MaxStackSize": 100
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Coins",
                     "Tier": 7,
                     "UnitPrice": 162000,
-                    "MaxStackSize": 100
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Tap Power",
                     "Tier": 1,
                     "UnitPrice": 92,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Tap Power",
                     "Tier": 2,
                     "UnitPrice": 109,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Tap Power",
                     "Tier": 3,
                     "UnitPrice": 182,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Tap Power",
                     "Tier": 4,
                     "UnitPrice": 1100,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Tap Power",
                     "Tier": 5,
                     "UnitPrice": 3970,
-                    "MaxStackSize": 100
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Tap Power",
                     "Tier": 6,
                     "UnitPrice": 11000,
-                    "MaxStackSize": 100
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Tap Power",
                     "Tier": 7,
                     "UnitPrice": 66500,
-                    "MaxStackSize": 100
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Criticals",
                     "Tier": 1,
                     "UnitPrice": 125,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Criticals",
                     "Tier": 2,
                     "UnitPrice": 98,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Criticals",
                     "Tier": 3,
                     "UnitPrice": 193,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Criticals",
                     "Tier": 4,
                     "UnitPrice": 1200,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Criticals",
                     "Tier": 5,
                     "UnitPrice": 4680,
-                    "MaxStackSize": 100
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Criticals",
                     "Tier": 6,
                     "UnitPrice": 32800,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Criticals",
                     "Tier": 7,
-                    "UnitPrice": 324000
+                    "UnitPrice": 324000,
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Strong Pets",
                     "Tier": 1,
                     "UnitPrice": 85,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Strong Pets",
                     "Tier": 2,
                     "UnitPrice": 76,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Strong Pets",
                     "Tier": 3,
                     "UnitPrice": 191,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Strong Pets",
                     "Tier": 4,
                     "UnitPrice": 2060,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Strong Pets",
                     "Tier": 5,
                     "UnitPrice": 4850,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Strong Pets",
                     "Tier": 6,
                     "UnitPrice": 26000,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Strong Pets",
                     "Tier": 7,
-                    "UnitPrice": 246000
+                    "UnitPrice": 246000,
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Treasure Hunter",
                     "Tier": 1,
                     "UnitPrice": 99,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Treasure Hunter",
                     "Tier": 2,
                     "UnitPrice": 91,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Treasure Hunter",
                     "Tier": 3,
                     "UnitPrice": 192,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Treasure Hunter",
                     "Tier": 4,
                     "UnitPrice": 1630,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Treasure Hunter",
                     "Tier": 5,
                     "UnitPrice": 4790,
-                    "MaxStackSize": 100
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Treasure Hunter",
                     "Tier": 6,
                     "UnitPrice": 31400,
-                    "MaxStackSize": 10
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Treasure Hunter",
                     "Tier": 7,
-                    "UnitPrice": 336000
+                    "UnitPrice": 336000,
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Magnet",
                     "Tier": 1,
                     "UnitPrice": 138,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Magnet",
                     "Tier": 2,
                     "UnitPrice": 104,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Magnet",
                     "Tier": 3,
                     "UnitPrice": 326,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Walkspeed",
                     "Tier": 1,
                     "UnitPrice": 64,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Walkspeed",
                     "Tier": 2,
                     "UnitPrice": 64,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Walkspeed",
                     "Tier": 3,
                     "UnitPrice": 127,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Walkspeed",
                     "Tier": 4,
                     "UnitPrice": 723,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Walkspeed",
                     "Tier": 5,
                     "UnitPrice": 2360,
-                    "MaxStackSize": 100
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Diamonds",
                     "Tier": 1,
                     "UnitPrice": 160,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Diamonds",
                     "Tier": 2,
                     "UnitPrice": 182,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Diamonds",
                     "Tier": 3,
                     "UnitPrice": 339,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Diamonds",
                     "Tier": 4,
                     "UnitPrice": 3820,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Diamonds",
                     "Tier": 5,
                     "UnitPrice": 25200,
-                    "MaxStackSize": 100
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Diamonds",
                     "Tier": 6,
                     "UnitPrice": 209000,
-                    "MaxStackSize": 100
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Diamonds",
                     "Tier": 7,
-                    "UnitPrice": 1870000
+                    "UnitPrice": 1870000,
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Lucky Eggs",
                     "Tier": 1,
                     "UnitPrice": 162,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Lucky Eggs",
                     "Tier": 2,
                     "UnitPrice": 147,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Lucky Eggs",
                     "Tier": 3,
                     "UnitPrice": 459,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Lucky Eggs",
                     "Tier": 4,
                     "UnitPrice": 3400,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Lucky Eggs",
                     "Tier": 5,
                     "UnitPrice": 19900,
-                    "MaxStackSize": 100
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Lucky Eggs",
                     "Tier": 6,
-                    "UnitPrice": 165000
+                    "UnitPrice": 165000,
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Lucky Eggs",
                     "Tier": 7,
-                    "UnitPrice": 1210000
+                    "UnitPrice": 1210000,
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Happy Pets",
                     "UnitPrice": 687,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Walkspeed",
                     "Tier": 1,
                     "UnitPrice": 31,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Walkspeed",
                     "Tier": 2,
                     "UnitPrice": 248,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Walkspeed",
                     "Tier": 3,
                     "UnitPrice": 1200,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Treasure Hunter",
                     "Tier": 1,
                     "UnitPrice": 77,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Treasure Hunter",
                     "Tier": 2,
                     "UnitPrice": 173,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Treasure Hunter",
                     "Tier": 3,
                     "UnitPrice": 224,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Treasure Hunter",
                     "Tier": 4,
                     "UnitPrice": 836,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },                
                 {
                     "Class": "Potion",
                     "Id": "Treasure Hunter",
                     "Tier": 7,
                     "UnitPrice": 23800,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Treasure Hunter",
                     "Tier": 8,
                     "UnitPrice": 179000,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Lucky",
                     "Tier": 1,
                     "UnitPrice": 104,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Lucky",
                     "Tier": 2,
                     "UnitPrice": 213,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Lucky",
                     "Tier": 3,
                     "UnitPrice": 214,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Lucky",
                     "Tier": 4,
                     "UnitPrice": 854,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Lucky",
                     "Tier": 7,
                     "UnitPrice": 35500,
-                    "MaxStackSize": 10
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Lucky",
                     "Tier": 8,
                     "UnitPrice": 158000,
-                    "MaxStackSize": 10
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Diamonds",
                     "Tier": 1,
                     "UnitPrice": 239,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Diamonds",
                     "Tier": 2,
                     "UnitPrice": 285,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Diamonds",
                     "Tier": 3,
                     "UnitPrice": 663,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Diamonds",
                     "Tier": 4,
                     "UnitPrice": 3680,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Diamonds",
                     "Tier": 5,
                     "UnitPrice": 15600,
-                    "MaxStackSize": 10
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
@@ -629,182 +635,187 @@
                     "Id": "Damage",
                     "Tier": 1,
                     "UnitPrice": 60,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Damage",
                     "Tier": 2,
                     "UnitPrice": 157,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Damage",
                     "Tier": 3,
                     "UnitPrice": 239,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Damage",
                     "Tier": 4,
                     "UnitPrice": 994,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Damage",
                     "Tier": 7,
-                    "UnitPrice": 13300
+                    "UnitPrice": 13300,
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Damage",
                     "Tier": 8,
                     "UnitPrice": 54000,
-                    "MaxStackSize": 10
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Coins",
                     "Tier": 1,
                     "UnitPrice": 104,
-                    "MaxStackSize": 10
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Coins",
                     "Tier": 2,
                     "UnitPrice": 121,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Coins",
                     "Tier": 3,
                     "UnitPrice": 379,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Coins",
                     "Tier": 4,
                     "UnitPrice": 890,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Coins",
                     "Tier": 7,
-                    "UnitPrice": 11000
+                    "UnitPrice": 11000,
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Potion",
                     "Id": "Coins",
                     "Tier": 8,
-                    "UnitPrice": 26300
+                    "UnitPrice": 26300,
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Fruit",
                     "Id": "Apple",
                     "UnitPrice": 64,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Fruit",
                     "Id": "Banana",
                     "UnitPrice": 70,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Fruit",
                     "Id": "Orange",
                     "UnitPrice": 331,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Fruit",
                     "Id": "Pineapple",
                     "UnitPrice": 53,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Misc",
                     "Id": "Basic Coin Jar",
                     "UnitPrice": 124,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Misc",
                     "Id": "Coins Flag",
                     "UnitPrice": 199,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Misc",
                     "Id": "Exotic Treasure Flag",
-                    "UnitPrice": 187000
+                    "UnitPrice": 187000,
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Misc",
                     "Id": "Comet",
                     "UnitPrice": 1030,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Misc",
                     "Id": "Diamonds Flag",
                     "UnitPrice": 249,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Misc",
                     "Id": "Giant Coin Jar",
                     "UnitPrice": 258,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Misc",
                     "Id": "Golden Watering Can",
-                    "UnitPrice": 77000
+                    "UnitPrice": 62900,
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Misc",
                     "Id": "Hasty Flag",
                     "UnitPrice": 171,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Misc",
                     "Id": "Insta-Plant Capsule",
                     "UnitPrice": 2370,
-                    "MaxStackSize": 10
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Misc",
                     "Id": "TNT",
                     "UnitPrice": 219,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Misc",
                     "Id": "Toy Ball",
                     "UnitPrice": 179,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 },
                 {
                     "Class": "Misc",
                     "Id": "Toy Bone",
                     "UnitPrice": 169,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 }
                 ,
                 {
                     "Class": "Misc",
                     "Id": "Squeaky Toy",
                     "UnitPrice": 180,
-                    "MaxStackSize": 1000
+                    "MaxStackSize": 2000
                 }
             ],
             "StartSellingPet": true
@@ -819,45 +830,35 @@
                 {
                     "Class": "Pet",
                     "IsTitanic": true,
-                    "MaxUnitPrice": 100000001
+                    "MaxUnitPrice": 1000000001
                 },
                 {
                     "Class": "Pet",
                     "IsHuge": true,
-                    "MaxUnitPrice": 4000001
+                    "MaxUnitPrice": 2500001
                 },
                 {
                     "Class": "Pet",
                     "IsHuge": true,
 					"IsGolden": true,
-                    "MaxUnitPrice": 5000001
+                    "MaxUnitPrice": 3500001
                 },
 				{
                     "Class": "Pet",
                     "IsHuge": true,
 					"IsRainbow": true,
-                    "MaxUnitPrice": 10000001
+                    "MaxUnitPrice": 5000001
                 },
                 {
                     "Class": "Pet",
-                    "MaxUnitPrice": 50001,
+                    "MaxUnitPrice": 100001,
                     "Rarity": [
                         "Exclusive"
                     ]
                 },
                 {
-                    "Class": "Misc",
-                    "Id": "Booth Slot Voucher",
-                    "MaxUnitPrice": 200001
-                },
-                {
                     "Class": "Egg",
-                    "Id": "Event Egg 21",
-                    "MaxUnitPrice": 1200000
-                },
-                {
-                    "Class": "Egg",
-                    "MaxUnitPrice": 100001,
+                    "MaxUnitPrice": 2000001,
                     "Rarity": [
                         "Exclusive"
                     ]
@@ -871,40 +872,6 @@
                     "Class": "Potion",
                     "MaxUnitPrice": 5001,
                     "MinTier": 8
-                },
-                {
-                    "Class": "Pet",
-                    "Id": "Vibrant Cobra",
-                    "MaxUnitPrice": 25
-                },
-                {
-                    "Class": "Pet",
-                    "Id": "Vibrant Cobra",
-                    "IsGolden": true,
-                    "MaxUnitPrice": 30
-                },
-                {
-                    "Class": "Pet",
-                    "Id": "Vibrant Cobra",
-                    "IsRainbow": true,
-                    "MaxUnitPrice": 45
-                },
-                {
-                    "Class": "Pet",
-                    "Id": "Vibrant Toucan",
-                    "MaxUnitPrice": 50
-                },
-                {
-                    "Class": "Pet",
-                    "Id": "Vibrant Toucan",
-                    "IsGolden": true,
-                    "MaxUnitPrice": 75
-                },
-                {
-                    "Class": "Pet",
-                    "Id": "Vibrant Toucan",
-                    "IsRainbow": true,
-                    "MaxUnitPrice": 100
                 },
                 {
                     "Class": "Misc",
@@ -924,27 +891,27 @@
                 {
                     "Class": "Misc",
                     "Id": "Magic Coin Jar",
-                    "MaxUnitPrice": 15
+                    "MaxUnitPrice": 5
                 },
                 {
                     "Class": "Misc",
                     "Id": "Basic Coin Jar",
-                    "MaxUnitPrice": 15
+                    "MaxUnitPrice": 25
                 },
                 {
                     "Class": "Misc",
                     "Id": "Diamonds Flag",
-                    "MaxUnitPrice": 75
+                    "MaxUnitPrice": 50
                 },
                 {
                     "Class": "Misc",
                     "Id": "Coins Flag",
-                    "MaxUnitPrice": 75
+                    "MaxUnitPrice": 50
                 },
                 {
                     "Class": "Misc",
                     "Id": "Hasty Flag",
-                    "MaxUnitPrice": 75
+                    "MaxUnitPrice": 25
                 },
                 {
                     "Class": "Misc",
@@ -959,7 +926,7 @@
                 {
                     "Class": "Misc",
                     "Id": "TNT",
-                    "MaxUnitPrice": 25
+                    "MaxUnitPrice": 75
                 },
                 {
                     "Class": "Misc",
@@ -969,7 +936,7 @@
                 {
                     "Class": "Misc",
                     "Id": "Giant Coin Jar",
-                    "MaxUnitPrice": 50
+                    "MaxUnitPrice": 25
                 },
                 {
                     "Class": "Misc",
@@ -979,7 +946,7 @@
                 {
                     "Class": "Enchant",
                     "MinTier": 1,
-                    "MaxUnitPrice": 15
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
@@ -1030,7 +997,7 @@
                     "Class": "Enchant",
                     "Id": "Criticals",
                     "MinTier": 5,
-                    "MaxUnitPrice": 300
+                    "MaxUnitPrice": 200
                 },
                 {
                     "Class": "Enchant",
@@ -1042,31 +1009,31 @@
                     "Class": "Enchant",
                     "Id": "Diamonds",
                     "MinTier": 5,
-                    "MaxUnitPrice": 5000
+                    "MaxUnitPrice": 2000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Lucky Eggs",
                     "MinTier": 6,
-                    "MaxUnitPrice": 40000
+                    "MaxUnitPrice": 30000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Strong Pets",
                     "MinTier": 6,
-                    "MaxUnitPrice": 9000
+                    "MaxUnitPrice": 2500
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Tap Power",
                     "MinTier": 6,
-                    "MaxUnitPrice": 2000
+                    "MaxUnitPrice": 750
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Treasure Hunter",
                     "MinTier": 6,
-                    "MaxUnitPrice": 12000
+                    "MaxUnitPrice": 3000
                 },
                 {
                     "Class": "Enchant",
@@ -1084,7 +1051,7 @@
                     "Class": "Enchant",
                     "Id": "Diamonds",
                     "MinTier": 6,
-                    "MaxUnitPrice": 75000
+                    "MaxUnitPrice": 12000
                 },
                 {
                     "Class": "Enchant",
@@ -1096,37 +1063,37 @@
                     "Class": "Enchant",
                     "Id": "Strong Pets",
                     "MinTier": 7,
-                    "MaxUnitPrice": 55000
+                    "MaxUnitPrice": 22000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Tap Power",
                     "MinTier": 7,
-                    "MaxUnitPrice": 15000
+                    "MaxUnitPrice": 4000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Treasure Hunter",
                     "MinTier": 7,
-                    "MaxUnitPrice": 50000
+                    "MaxUnitPrice": 20000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Criticals",
                     "MinTier": 7,
-                    "MaxUnitPrice": 75000
+                    "MaxUnitPrice": 20000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Coins",
                     "MinTier": 7,
-                    "MaxUnitPrice": 75000
+                    "MaxUnitPrice": 20000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Diamonds",
                     "MinTier": 7,
-                    "MaxUnitPrice": 200000
+                    "MaxUnitPrice": 100001
                 },
                 {
                     "Class": "Hoverboard",
@@ -1159,19 +1126,19 @@
                     "Class": "Potion",
                     "Id": "Coins",
                     "MinTier": 5,
-                    "MaxUnitPrice": 300
+                    "MaxUnitPrice": 250
                 },
                 {
                     "Class": "Potion",
                     "Id": "Coins",
                     "MinTier": 6,
-                    "MaxUnitPrice": 2000
+                    "MaxUnitPrice": 500
                 },
                 {
                     "Class": "Potion",
                     "Id": "Coins",
                     "MinTier": 7,
-                    "MaxUnitPrice": 2500
+                    "MaxUnitPrice": 2000
                 },
                 {
                     "Class": "Potion",
@@ -1189,19 +1156,19 @@
                     "Class": "Potion",
                     "Id": "Diamonds",
                     "MinTier": 4,
-                    "MaxUnitPrice": 750
+                    "MaxUnitPrice": 250
                 },
                 {
                     "Class": "Potion",
                     "Id": "Diamonds",
                     "MinTier": 5,
-                    "MaxUnitPrice": 3500
+                    "MaxUnitPrice": 1500
                 },
                 {
                     "Class": "Potion",
                     "Id": "Diamonds",
                     "MinTier": 6,
-                    "MaxUnitPrice": 10000
+                    "MaxUnitPrice": 7500
                 }
             ],
             "StartSnipingPet": true,
