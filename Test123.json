@@ -101,26 +101,25 @@
                 {
                     "Class":"Pet",
                     "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
-                    "IsRainbow":true,
-                    "UnitPrice":0,
-                    "MaxStackSize": 5000
-                },
-                {
-                    "Class":"Pet",
-                    "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
-                    "IsShiny": true,
-                    "IsRainbow":true,
-                    "UnitPrice":0,
-                    "MaxStackSize": 5000
-                },
-                {
-                    "Class":"Pet",
-                    "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
                     "IsShiny": true,
                     "IsGolden":true,
                     "UnitPrice":0,
                     "MaxStackSize": 5000
-                    
+                },
+                {
+                    "Class":"Pet",
+                    "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
+                    "IsRainbow":true,
+                    "UnitPrice":0,
+                    "MaxStackSize": 5000
+                },
+                {
+                    "Class":"Pet",
+                    "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
+                    "IsShiny": true,
+                    "IsRainbow":true,
+                    "UnitPrice":0,
+                    "MaxStackSize": 5000
                 },
                 {
                     "Class": "Fruit",
