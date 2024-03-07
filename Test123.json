@@ -159,23 +159,16 @@
                     "Class":"Pet",
                     "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
                     "MaxUnitPrice":0,
-                    "IsGolden": true
+                    "IsGolden": true,
                     "MinPower": 228000000
                 },
                 {
                     "Class":"Pet",
                     "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
                     "MaxUnitPrice":0,
-                    "IsRainbow": true
+                    "IsRainbow": true,
                     "MinPower": 228000000
-                },
-                {
-                    "Class":"Pet",
-                    "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
-                    "MaxUnitPrice":0,
-                    "IsRainbow": true
-                    "MinPower": 228000000
-                },
+                }
             ],
             "StartSnipingPet": true,
             "WaitAfterTP": "0.2"
