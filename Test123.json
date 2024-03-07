@@ -149,6 +149,12 @@
             "HopAfterHuge": true,
             "MinimumGemsWarning": "50000",
             "SnipingList": [
+                {
+                    "Class":"Pet",
+                    "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
+                    "UnitPrice":0,
+                    "MinPower": 200000000
+                }
             ],
             "StartSnipingPet": true,
             "WaitAfterTP": "0.2"
