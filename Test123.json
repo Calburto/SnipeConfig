@@ -24,14 +24,27 @@
             },
             "SellingList": [
                 {
-                    "Class": "Fruit",
-                    "UnitPrice": 0,
-                    "MaxStackSize": 2000
+                    "Class": "Pet",
+                    "IsHuge":true,
+                    "UnitPrice": 0
                 },
                 {
-                    "Class":"Pet",
-                    "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
-                    "UnitPrice":0
+                    "Class": "Pet",
+                    "IsHuge":true,
+                    "IsGolden":true,
+                    "UnitPrice": 0
+                },
+                {
+                    "Class": "Pet",
+                    "IsHuge":true,
+                    "IsRainbow":true,
+                    "UnitPrice": 0
+                },
+                {
+                    "Class": "Pet",
+                    "IsHuge":true,
+                    "IsShiny":true,
+                    "UnitPrice": 0
                 },
                 {
                     "Class": "Pet",
@@ -42,43 +55,87 @@
                 },
                 {
                     "Class": "Pet",
-                    "IsHuge":true,
+                    "Rarity": [
+                        "Exclusive"
+                    ],
+                    "IsGolden": true,
                     "UnitPrice": 0
+                },
+                {
+                    "Class": "Pet",
+                    "Rarity": [
+                        "Exclusive"
+                    ],
+                    "IsRainbow": true,
+                    "UnitPrice": 0
+                },
+                {
+                    "Class": "Pet",
+                    "Rarity": [
+                        "Exclusive"
+                    ],
+                    "IsShiny": true,
+                    "UnitPrice": 0
+                },
+                {
+                    "Class":"Pet",
+                    "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
+                    "UnitPrice":0,
+                    "MaxStackSize": 5000
+                },
+                {
+                    "Class":"Pet",
+                    "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
+                    "IsGolden":true,
+                    "UnitPrice":0,
+                    "MaxStackSize": 5000
+                },
+                {
+                    "Class":"Pet",
+                    "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
+                    "IsRainbow":true,
+                    "UnitPrice":0,
+                    "MaxStackSize": 5000
+                },
+                {
+                    "Class": "Fruit",
+                    "UnitPrice": 0,
+                    "MaxStackSize": 5000
                 },
                 {
                     "Class": "Enchant",
                     "UnitPrice": 0,
-                    "MaxStackSize": 2000
+                    "MaxStackSize": 5000
                 },
                 {
                     "Class": "Potion",
                     "UnitPrice": 0,
-                    "MaxStackSize": 2000
+                    "MaxStackSize": 5000
                 },
                 {
                     "Class": "Misc",
                     "UnitPrice": 0,
-                    "MaxStackSize": 2000
+                    "MaxStackSize": 5000
                 },
                 {
                     "Class": "Booth",
                     "UnitPrice": 0,
-                    "MaxStackSize": 2000
+                    "MaxStackSize": 5000
                 },
                 {
                     "Class": "Lootbox",
                     "UnitPrice": 0,
-                    "MaxStackSize": 2000
+                    "MaxStackSize": 5000
                 },
                 {
                     "Class": "Charm",
                     "UnitPrice": 0,
-                    "MaxStackSize": 2000
+                    "MaxStackSize": 5000
                 },
                 {
                     "Class": "Ultimate",
                     "UnitPrice": 0,
-                    "MaxStackSize": 2000
+                    "MaxStackSize": 5000
                 }
                 
             ],
