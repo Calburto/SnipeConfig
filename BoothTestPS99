@@ -89,6 +89,7 @@
                     "IsGolden":true,
                     "UnitPrice":0,
                     "MaxStackSize": 5000
+                    
                 },
                 {
                     "Class":"Pet",
@@ -148,7 +149,12 @@
             "HopAfterHuge": true,
             "MinimumGemsWarning": "50000",
             "SnipingList": [
-                
+                {
+                    "Class":"Pet",
+                    "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
+                    "MaxUnitPrice":0,
+                    "MinPower": 200000000
+                }
             ],
             "StartSnipingPet": true,
             "WaitAfterTP": "0.2"
