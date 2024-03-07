@@ -81,21 +81,25 @@
                     "Class":"Pet",
                     "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
                     "UnitPrice":0,
-                    "MaxStackSize": 5000
+                    "MaxStackSize": 5000,
+                    "MinPower": 162000000
                 },
                 {
                     "Class":"Pet",
                     "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
                     "IsGolden":true,
                     "UnitPrice":0,
-                    "MaxStackSize": 5000
+                    "MaxStackSize": 5000,
+                    "MinPower": 182000000
+                    
                 },
                 {
                     "Class":"Pet",
                     "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
                     "IsRainbow":true,
                     "UnitPrice":0,
-                    "MaxStackSize": 5000
+                    "MaxStackSize": 5000,
+                    "MinPower": 200000000
                 },
                 {
                     "Class": "Fruit",
