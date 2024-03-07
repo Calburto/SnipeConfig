@@ -153,7 +153,6 @@
                     "Class":"Pet",
                     "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
                     "MaxUnitPrice":0,
-                    "MaxStackSize": 5000,
                     "MinPower": 162000000
                 },
                 {
@@ -161,7 +160,6 @@
                     "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
                     "IsGolden":true,
                     "MaxUnitPrice":0,
-                    "MaxStackSize": 5000,
                     "MinPower": 182000000
                     
                 },
@@ -170,7 +168,6 @@
                     "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
                     "IsRainbow":true,
                     "MaxUnitPrice":0,
-                    "MaxStackSize": 5000,
                     "MinPower": 200000000
                 }
             ],
