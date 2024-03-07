@@ -152,7 +152,7 @@
                 {
                     "Class":"Pet",
                     "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
-                    "UnitPrice":0,
+                    "MaxUnitPrice":0,
                     "MinPower": 200000000
                 }
             ],
