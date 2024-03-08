@@ -12,11 +12,11 @@
         "Selling": {
             "autoMultipliers": {
                 "DMmulti": "15",
-                "enableDM": true,
-                "enableG": true,
-                "enableHC": true,
-                "enableRB": true,
-                "enableSH": true,
+                "enableDM": false,
+                "enableG": false,
+                "enableHC": false,
+                "enableRB": false,
+                "enableSH": false,
                 "Gmulti": "2.5",
                 "HCmulti": "3",
                 "RBmulti": "6.5",
@@ -30,51 +30,9 @@
                 },
                 {
                     "Class": "Pet",
-                    "IsHuge":true,
-                    "IsGolden":true,
-                    "UnitPrice": 0
-                },
-                {
-                    "Class": "Pet",
-                    "IsHuge":true,
-                    "IsRainbow":true,
-                    "UnitPrice": 0
-                },
-                {
-                    "Class": "Pet",
-                    "IsHuge":true,
-                    "IsShiny":true,
-                    "UnitPrice": 0
-                },
-                {
-                    "Class": "Pet",
                     "Rarity": [
                         "Exclusive"
                     ],
-                    "UnitPrice": 0
-                },
-                {
-                    "Class": "Pet",
-                    "Rarity": [
-                        "Exclusive"
-                    ],
-                    "IsGolden": true,
-                    "UnitPrice": 0
-                },
-                {
-                    "Class": "Pet",
-                    "Rarity": [
-                        "Exclusive"
-                    ],
-                    "IsRainbow": true,
-                    "UnitPrice": 0
-                },
-                {
-                    "Class": "Pet",
-                    "Rarity": [
-                        "Exclusive"
-                    ],
-                    "IsShiny": true,
                     "UnitPrice": 0
                 },
                 {
