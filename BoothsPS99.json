@@ -89,6 +89,8 @@
             "AutoRapBuy": true,
             "MinPower": 228000000,
             "BlackList": [
+                "Old Boot",
+                "Orange"
             ],
             "HopAfterHuge": true,
             "MinimumGemsWarning": "50000",
