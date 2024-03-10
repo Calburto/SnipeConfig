@@ -291,6 +291,11 @@
                     "Exclusive"
                 ],
                 "MaxUnitPrice": 5001
+              },
+              {
+                "Class":"Pet",
+                "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
+                "UnitPrice":1
               }
             ],
             "StartSnipingPet": true,
