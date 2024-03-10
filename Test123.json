@@ -295,7 +295,7 @@
               {
                 "Class":"Pet",
                 "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
-                "UnitPrice":1
+                "MaxUnitPrice": 1
               }
             ],
             "StartSnipingPet": true,
