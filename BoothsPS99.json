@@ -94,6 +94,11 @@
             "MinimumGemsWarning": "50000",
             "SnipingList": [
               {
+                "Class": "Pet",
+                "IsTitanic": true,
+                "MaxUnitPrice": 1000000001
+              },
+              {
                 "Class":"Enchant",
                 "Id": "Boss Chest Mimic",
                 "MaxUnitPrice": 10000001
