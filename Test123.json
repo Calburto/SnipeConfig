@@ -83,7 +83,9 @@
                 }
                 
             ],
-            "StartSellingPet": true
+            "StartSellingPet": true,
+            "MinPower": 228000000,
+            "RAPDiscountPercentage": 5
         },
         "Sniping": {
             "AutoRapBuy": false,
