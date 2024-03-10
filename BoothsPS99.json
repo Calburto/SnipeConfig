@@ -83,7 +83,9 @@
                 }
                 
             ],
-            "StartSellingPet": true
+            "StartSellingPet": true,
+            "MinPower": 228000000,
+            "RAPDiscountPercentage": 5
         },
         "Sniping": {
             "AutoRapBuy": false,
@@ -201,7 +203,7 @@
               {
                 "Class":"Charm",
                 "Id": "Royalty",
-                "MaxUnitPrice": 650002
+                "MaxUnitPrice": 650001
               },
               {
                 "Class":"Potion",
