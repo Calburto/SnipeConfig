@@ -246,7 +246,7 @@
                 "Class":"Enchant",
                 "MinTier": 8,
                 "MaxUnitPrice": 8001
-              }
+              },
               {
                 "Class":"Hoverboard",
                 "MaxUnitPrice": 50001
@@ -284,6 +284,13 @@
               {
                 "Class": "Booth",
                 "MaxUnitPrice": 5001
+              },
+              {
+                "Class":"Pet",
+                "Rarity": [
+                    "Exclusive"
+                ],
+                "MaxUnitPrice": 500
               }
             ],
             "StartSnipingPet": true,
