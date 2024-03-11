@@ -80,6 +80,16 @@
                     "Class": "Ultimate",
                     "UnitPrice": 0,
                     "MaxStackSize": 5000
+                },
+                                {
+                    "Class": "Hoverboard",
+                    "UnitPrice": 0,
+                    "MaxStackSize": 5000
+                },
+                                {
+                    "Class": "Egg",
+                    "UnitPrice": 0,
+                    "MaxStackSize": 5000
                 }
                 
             ],
