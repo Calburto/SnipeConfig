@@ -297,6 +297,10 @@
                 "Class": "Booth",
                 "MaxUnitPrice": 5001
               },
+                              {
+                "Class":"Fruit",
+                "MaxUnitPrice": 1
+              },
               {
                 "Class":"Pet",
                 "Rarity": [
