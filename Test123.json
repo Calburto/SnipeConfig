@@ -25,7 +25,7 @@
             "SellingList": [
                 {
                     "Class": "Pet",
-                    "IsHuge":true,
+                    "IsHuge": true,
                     "UnitPrice": 0
                 },
                 {
@@ -36,9 +36,19 @@
                     "UnitPrice": 0
                 },
                 {
-                    "Class":"Pet",
-                    "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
-                    "UnitPrice":0,
+                    "Class": "Pet",
+                    "Rarity": [
+                        "Celestial",
+                        "Superior",
+                        "Divine",
+                        "Exotic",
+                        "Mythical",
+                        "Legendary",
+                        "Epic",
+                        "Rare",
+                        "Basic"
+                    ],
+                    "UnitPrice": 0,
                     "MaxStackSize": 5000
                 },
                 {
@@ -80,230 +90,267 @@
                     "Class": "Ultimate",
                     "UnitPrice": 0,
                     "MaxStackSize": 5000
+                },
+                {
+                    "Class": "Hoverboard",
+                    "UnitPrice": 0,
+                    "MaxStackSize": 5000
+                },
+                {
+                    "Class": "Egg",
+                    "UnitPrice": 0,
+                    "MaxStackSize": 5000
                 }
-                
             ],
             "StartSellingPet": true,
             "MinPower": 228000000,
-            "RAPDiscountPercentage": 5
+            "RAPDiscountPercentage": 3
         },
         "Sniping": {
             "AutoRapBuy": false,
             "MinPower": 228000000,
-            "BlackList": [
-            ],
+            "BlackList": [],
             "HopAfterHuge": true,
             "MinimumGemsWarning": "50000",
             "SnipingList": [
-              {
-                "Class": "Pet",
-                "IsTitanic": true,
-                "MaxUnitPrice": 1000000001
-              },
-              {
-                "Class":"Enchant",
-                "Id": "Boss Chest Mimic",
-                "MaxUnitPrice": 10000001
-              },
-              {
-                "Class":"Enchant",
-                "Id": "Chest Mimic",
-                "MaxUnitPrice": 10000001
-              },
-              {
-                "Class":"Enchant",
-                "Id": "Diamond Chest Mimic",
-                "MaxUnitPrice": 7000001
-              },
-              {
-                "Class":"Enchant",
-                "Id": "Lucky Block",
-                "MaxUnitPrice": 3500001
-              },
-              {
-                "Class":"Enchant",
-                "Id": "Massive Comet",
-                "MaxUnitPrice": 3000001
-              },
-              {
-                "Class":"Enchant",
-                "Id": "Super Shiny Hunter",
-                "MaxUnitPrice": 3500001
-              },
-              {
-                "Class":"Enchant",
-                "Id": "Party Time",
-                "MaxUnitPrice": 50001
-              },
-              {
-                "Class":"Enchant",
-                "Id": "Huge Hunter",
-                "MaxUnitPrice": 100001
-              },
-              {
-                "Class":"Enchant",
-                "Id": "Shiny Hunter",
-                "MaxUnitPrice": 25001
-              },
-              {
-                "Class":"Enchant",
-                "Id": "Super Lightning",
-                "MaxUnitPrice": 25001
-              },
-              {
-                "Class":"Enchant",
-                "Id": "Magic Orb",
-                "MaxUnitPrice": 25001
-              },
-              {
-                "Class":"Enchant",
-                "Id": "Fortune",
-                "MaxUnitPrice": 2501
-              },
-              {
-                "Class":"Ultimate",
-                "Id": "Black Hole",
-                "MaxUnitPrice": 9000001
-              },
-              {
-                "Class":"Ultimate",
-                "Id": "Chest Spell",
-                "MaxUnitPrice": 20000001
-              },
-              {
-                "Class":"Ultimate",
-                "Id": "Tornado",
-                "MaxUnitPrice": 1000001
-              },
-              {
-                "Class":"Ultimate",
-                "Id": "Pet Surge",
-                "MaxUnitPrice": 15001
-              },
-              {
-                "Class":"Ultimate",
-                "Id": "TNT Shower",
-                "MaxUnitPrice": 200001
-              },
-              {
-                "Class":"Ultimate",
-                "Id": "Black Hole",
-                "MaxUnitPrice": 9000001
-              },
-              {
-                "Class":"Charm",
-                "Id": "Overload",
-                "MaxUnitPrice": 650001
-              },
-              {
-                "Class":"Charm",
-                "Id": "Glittering",
-                "MaxUnitPrice": 40001
-              },
-              {
-                "Class":"Charm",
-                "Id": "Royalty",
-                "MaxUnitPrice": 650001
-              },
-              {
-                "Class":"Potion",
-                "MinTier": 5,
-                "MaxUnitPrice": 150
-              },
-              {
-                "Class":"Potion",
-                "MinTier": 6,
-                "MaxUnitPrice": 450
-              },
-              {
-                "Class":"Potion",
-                "MinTier": 7,
-                "MaxUnitPrice": 1001
-              },
-              {
-                "Class":"Potion",
-                "MinTier": 8,
-                "MaxUnitPrice": 2001
-              },
-              {
-                "Class":"Potion",
-                "MinTier": 9,
-                "MaxUnitPrice": 5001
-              },    
-              {
-                "Class":"Enchant",
-                "MaxUnitPrice": 1
-              },
-              {
-                "Class":"Enchant",
-                "MinTier": 5,
-                "MaxUnitPrice": 101
-              },
-              {
-                "Class":"Enchant",
-                "MinTier": 6,
-                "MaxUnitPrice": 201
-              },
-              {
-                "Class":"Enchant",
-                "MinTier": 7,
-                "MaxUnitPrice": 1001
-              },
-              {
-                "Class":"Enchant",
-                "MinTier": 8,
-                "MaxUnitPrice": 8001
-              },
-              {
-                "Class":"Hoverboard",
-                "MaxUnitPrice": 50001
-              },              {
-                "Class":"Egg",
-                "MaxUnitPrice": 2000001
-              },
-              {
-                "Class":"Charm",
-                "MaxUnitPrice": 1
-              },
-              {
-                "Class":"Pet",
-                "IsHuge": true,
-                "MaxUnitPrice": 5000001
-              },
-              {
-                "Class":"Pet",
-                "IsHuge": true,
-                "IsShiny": true,
-                "MaxUnitPrice": 8500001
-              },
-              {
-                "Class":"Pet",
-                "IsHuge": true,
-                "IsGolden": true,
-                "MaxUnitPrice": 5500001
-              },             
-              {
-                "Class":"Pet",
-                "IsHuge": true,
-                "IsRainbow": true,
-                "MaxUnitPrice": 6500001
-              },
-              {
-                "Class": "Booth",
-                "MaxUnitPrice": 5001
-              },
-              {
-                "Class":"Pet",
-                "Rarity": [
-                    "Exclusive"
-                ],
-                "MaxUnitPrice": 500001
-              },
-              {
-                "Class":"Pet",
-                "Rarity":["Celestial","Superior","Divine","Exotic","Mythical","Legendary","Epic","Rare","Basic"],
-                "MaxUnitPrice": 1
-              }
+                {
+                    "Class": "Pet",
+                    "IsTitanic": true,
+                    "MaxUnitPrice": 1000000001
+                },
+                {
+                    "Class": "Enchant",
+                    "Id": "Boss Chest Mimic",
+                    "MaxUnitPrice": 10000001
+                },
+                {
+                    "Class": "Enchant",
+                    "Id": "Chest Mimic",
+                    "MaxUnitPrice": 10000001
+                },
+                {
+                    "Class": "Enchant",
+                    "Id": "Diamond Chest Mimic",
+                    "MaxUnitPrice": 7000001
+                },
+                {
+                    "Class": "Enchant",
+                    "Id": "Lucky Block",
+                    "MaxUnitPrice": 3500001
+                },
+                {
+                    "Class": "Enchant",
+                    "Id": "Massive Comet",
+                    "MaxUnitPrice": 3000001
+                },
+                {
+                    "Class": "Enchant",
+                    "Id": "Super Shiny Hunter",
+                    "MaxUnitPrice": 3500001
+                },
+                {
+                    "Class": "Enchant",
+                    "Id": "Party Time",
+                    "MaxUnitPrice": 50001
+                },
+                {
+                    "Class": "Enchant",
+                    "Id": "Huge Hunter",
+                    "MaxUnitPrice": 100001
+                },
+                {
+                    "Class": "Enchant",
+                    "Id": "Shiny Hunter",
+                    "MaxUnitPrice": 25001
+                },
+                {
+                    "Class": "Enchant",
+                    "Id": "Super Lightning",
+                    "MaxUnitPrice": 25001
+                },
+                {
+                    "Class": "Enchant",
+                    "Id": "Magic Orb",
+                    "MaxUnitPrice": 25001
+                },
+                {
+                    "Class": "Enchant",
+                    "Id": "Fortune",
+                    "MaxUnitPrice": 2501
+                },
+                {
+                    "Class": "Ultimate",
+                    "Id": "Black Hole",
+                    "MaxUnitPrice": 12000001
+                },
+                {
+                    "Class": "Ultimate",
+                    "Id": "Chest Spell",
+                    "MaxUnitPrice": 22000001
+                },
+                {
+                    "Class": "Ultimate",
+                    "Id": "Tornado",
+                    "MaxUnitPrice": 1000001
+                },
+                {
+                    "Class": "Ultimate",
+                    "Id": "Pet Surge",
+                    "MaxUnitPrice": 15001
+                },
+                {
+                    "Class": "Ultimate",
+                    "Id": "TNT Shower",
+                    "MaxUnitPrice": 200001
+                },
+                {
+                    "Class": "Charm",
+                    "Id": "Overload",
+                    "MaxUnitPrice": 650001
+                },
+                {
+                    "Class": "Charm",
+                    "Id": "Glittering",
+                    "MaxUnitPrice": 40001
+                },
+                {
+                    "Class": "Charm",
+                    "Id": "Royalty",
+                    "MaxUnitPrice": 650001
+                },
+                {
+                    "Class": "Potion",
+                    "MinTier": 5,
+                    "MaxUnitPrice": 150
+                },
+                {
+                    "Class": "Potion",
+                    "MinTier": 6,
+                    "MaxUnitPrice": 450
+                },
+                {
+                    "Class": "Potion",
+                    "MinTier": 7,
+                    "MaxUnitPrice": 1001
+                },
+                {
+                    "Class": "Potion",
+                    "MinTier": 8,
+                    "MaxUnitPrice": 2001
+                },
+                {
+                    "Class": "Potion",
+                    "MinTier": 9,
+                    "MaxUnitPrice": 5001
+                },
+                {
+                    "Class": "Enchant",
+                    "MaxUnitPrice": 1
+                },
+                {
+                    "Class": "Enchant",
+                    "MinTier": 5,
+                    "MaxUnitPrice": 101
+                },
+                {
+                    "Class": "Enchant",
+                    "MinTier": 6,
+                    "MaxUnitPrice": 201
+                },
+                {
+                    "Class": "Enchant",
+                    "MinTier": 7,
+                    "MaxUnitPrice": 1001
+                },
+                {
+                    "Class": "Enchant",
+                    "MinTier": 8,
+                    "MaxUnitPrice": 8001
+                },
+                {
+                    "Class": "Hoverboard",
+                    "MaxUnitPrice": 50001
+                },
+                {
+                    "Class": "Egg",
+                    "MaxUnitPrice": 2000001
+                },
+                {
+                    "Class": "Charm",
+                    "MaxUnitPrice": 1
+                },
+                {
+                    "Class": "Pet",
+                    "IsHuge": true,
+                    "MaxUnitPrice": 5000001
+                },
+                {
+                    "Class": "Pet",
+                    "IsHuge": true,
+                    "IsShiny": true,
+                    "MaxUnitPrice": 8500001
+                },
+                {
+                    "Class": "Pet",
+                    "IsHuge": true,
+                    "IsGolden": true,
+                    "MaxUnitPrice": 5500001
+                },
+                {
+                    "Class": "Pet",
+                    "IsHuge": true,
+                    "IsRainbow": true,
+                    "MaxUnitPrice": 6500001
+                },
+                {
+                    "Class": "Booth",
+                    "MaxUnitPrice": 5001
+                },
+                {
+                    "Class": "Fruit",
+                    "MaxUnitPrice": 1
+                },
+                {
+                    "Class": "Lootbox",
+                    "MaxUnitPrice": 1
+                },
+                {
+                    "Class": "Lootbox",
+                    "Id": "Small Christmas Present",
+                    "MaxUnitPrice": 8280
+                },
+                {
+                    "Class": "Lootbox",
+                    "Id": "X-Large Christmas Present",
+                    "MaxUnitPrice": 64680
+                },
+                {
+                    "Class": "Lootbox",
+                    "Id": "Titanic Christmas Present",
+                    "MaxUnitPrice": 1440000
+                },
+                {
+                    "Class": "Pet",
+                    "Rarity": [
+                        "Exclusive"
+                    ],
+                    "MaxUnitPrice": 500001
+                },
+                {
+                    "Class": "Pet",
+                    "Rarity": [
+                        "Celestial",
+                        "Superior",
+                        "Divine",
+                        "Exotic",
+                        "Mythical",
+                        "Legendary",
+                        "Epic",
+                        "Rare",
+                        "Basic"
+                    ],
+                    "MaxUnitPrice": 1
+                }
             ],
             "StartSnipingPet": true,
             "WaitAfterTP": "0.2"
