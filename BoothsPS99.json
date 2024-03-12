@@ -95,7 +95,7 @@
             ],
             "StartSellingPet": true,
             "MinPower": 228000000,
-            "RAPDiscountPercentage": 5
+            "RAPDiscountPercentage": 3
         },
         "Sniping": {
             "AutoRapBuy": false,
@@ -173,12 +173,12 @@
               {
                 "Class":"Ultimate",
                 "Id": "Black Hole",
-                "MaxUnitPrice": 9000001
+                "MaxUnitPrice": 12000001
               },
               {
                 "Class":"Ultimate",
                 "Id": "Chest Spell",
-                "MaxUnitPrice": 20000001
+                "MaxUnitPrice": 22000001
               },
               {
                 "Class":"Ultimate",
@@ -194,11 +194,6 @@
                 "Class":"Ultimate",
                 "Id": "TNT Shower",
                 "MaxUnitPrice": 200001
-              },
-              {
-                "Class":"Ultimate",
-                "Id": "Black Hole",
-                "MaxUnitPrice": 9000001
               },
               {
                 "Class":"Charm",
