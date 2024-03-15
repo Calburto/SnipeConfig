@@ -250,7 +250,7 @@
                 {
                     "Class": "Enchant",
                     "MinTier": 5,
-                    "MaxUnitPrice": 101
+                    "MaxUnitPrice": 50
                 },
                 {
                     "Class": "Enchant",
@@ -311,6 +311,10 @@
                     "MaxUnitPrice": 1
                 },
                 {
+                    "Class": "Misc",
+                    "MaxUnitPrice": 1
+                },
+                {
                     "Class": "Lootbox",
                     "MaxUnitPrice": 1
                 },
@@ -335,6 +339,55 @@
                         "Exclusive"
                     ],
                     "MaxUnitPrice": 500001
+                },
+                {
+                    "Class": "Misc",
+                    "MaxUnitPrice": 1
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Mystery Ticket",
+                    "MaxUnitPrice": 2440000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Diamond Shovel",
+                    "MaxUnitPrice": 4500000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Tech Key",
+                    "MaxUnitPrice": 8464
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Diamond Fishing Rod",
+                    "MaxUnitPrice": 1747311
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Secret Key",
+                    "MaxUnitPrice": 10200
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Booth Slot Vouch",
+                    "MaxUnitPrice": 30000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Daycare Slot Voucher",
+                    "MaxUnitPrice": 11514
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Golden Watering Can",
+                    "MaxUnitPrice": 9020
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Insta Plant Capsule",
+                    "MaxUnitPrice": 1966
                 },
                 {
                     "Class": "Pet",
