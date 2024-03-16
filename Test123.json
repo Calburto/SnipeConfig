@@ -103,12 +103,12 @@
                 }
             ],
             "StartSellingPet": true,
-            "MinPower": 228000000,
+            "MinPower": 3000000000,
             "RAPDiscountPercentage": 3
         },
         "Sniping": {
             "AutoRapBuy": false,
-            "MinPower": 228000000,
+            "MinPower": 3000000000,
             "BlackList": [],
             "HopAfterHuge": true,
             "MinimumGemsWarning": "50000",
