@@ -229,67 +229,6 @@
                     "MaxUnitPrice": 650001
                 },
                 {
-                    "Class": "Potion",
-                    "MinTier": 5,
-                    "MaxUnitPrice": 150
-                },
-                {
-                    "Class": "Potion",
-                    "MinTier": 6,
-                    "MaxUnitPrice": 450
-                },
-                {
-                    "Class": "Potion",
-                    "MinTier": 7,
-                    "MaxUnitPrice": 1001
-                },
-                {
-                    "Class": "Potion",
-                    "MinTier": 8,
-                    "MaxUnitPrice": 2001
-                },
-                {
-                    "Class": "Potion",
-                    "MinTier": 9,
-                    "MaxUnitPrice": 5001
-                },
-                {
-                    "Class": "Enchant",
-                    "MaxUnitPrice": 1
-                },
-                {
-                    "Class": "Enchant",
-                    "MinTier": 5,
-                    "MaxUnitPrice": 50
-                },
-                {
-                    "Class": "Enchant",
-                    "MinTier": 6,
-                    "MaxUnitPrice": 201
-                },
-                {
-                    "Class": "Enchant",
-                    "MinTier": 7,
-                    "MaxUnitPrice": 1001
-                },
-                {
-                    "Class": "Enchant",
-                    "MinTier": 8,
-                    "MaxUnitPrice": 8001
-                },
-                {
-                    "Class": "Hoverboard",
-                    "MaxUnitPrice": 50001
-                },
-                {
-                    "Class": "Egg",
-                    "MaxUnitPrice": 2000001
-                },
-                {
-                    "Class": "Charm",
-                    "MaxUnitPrice": 1
-                },
-                {
                     "Class": "Lootbox",
                     "Id": "Small Christmas Present",
                     "MaxUnitPrice": 8280
@@ -381,6 +320,7 @@
                     "Class": "Lootbox",
                     "MaxUnitPrice": 1000
                 },
+
                 {
                     "Class": "Misc",
                     "MaxUnitPrice": 1
@@ -413,6 +353,67 @@
                         "Rare",
                         "Basic"
                     ],
+                    "MaxUnitPrice": 1
+                },
+                {
+                    "Class": "Potion",
+                    "MinTier": 5,
+                    "MaxUnitPrice": 150
+                },
+                {
+                    "Class": "Potion",
+                    "MinTier": 6,
+                    "MaxUnitPrice": 450
+                },
+                {
+                    "Class": "Potion",
+                    "MinTier": 7,
+                    "MaxUnitPrice": 1001
+                },
+                {
+                    "Class": "Potion",
+                    "MinTier": 8,
+                    "MaxUnitPrice": 2001
+                },
+                {
+                    "Class": "Potion",
+                    "MinTier": 9,
+                    "MaxUnitPrice": 5001
+                },
+                {
+                    "Class": "Enchant",
+                    "MaxUnitPrice": 1
+                },
+                {
+                    "Class": "Enchant",
+                    "MinTier": 5,
+                    "MaxUnitPrice": 50
+                },
+                {
+                    "Class": "Enchant",
+                    "MinTier": 6,
+                    "MaxUnitPrice": 201
+                },
+                {
+                    "Class": "Enchant",
+                    "MinTier": 7,
+                    "MaxUnitPrice": 1001
+                },
+                {
+                    "Class": "Enchant",
+                    "MinTier": 8,
+                    "MaxUnitPrice": 8001
+                },
+                {
+                    "Class": "Hoverboard",
+                    "MaxUnitPrice": 50001
+                },
+                {
+                    "Class": "Egg",
+                    "MaxUnitPrice": 2000001
+                },
+                {
+                    "Class": "Charm",
                     "MaxUnitPrice": 1
                 }
             ],
