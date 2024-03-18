@@ -119,6 +119,21 @@
                     "MaxUnitPrice": 1000000001
                 },
                 {
+                    "Class": "Lootbox",
+                    "Id": "Adventurer",
+                    "MaxUnitPrice": 5000000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Exclusive Daycare Slot Voucher",
+                    "MaxUnitPrice": 1000000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Booth Slot Voucher",
+                    "MaxUnitPrice": 50000
+                },
+                {
                     "Class": "Enchant",
                     "Id": "Boss Chest Mimic",
                     "MaxUnitPrice": 10000001
