@@ -109,7 +109,10 @@
         "Sniping": {
             "AutoRapBuy": false,
             "MinPower": 3000000000,
-            "BlackList": [],
+            "BlackList": [
+                "Old Boot",
+                "Snowball"
+            ],
             "HopAfterHuge": true,
             "MinimumGemsWarning": "50000",
             "SnipingList": [
