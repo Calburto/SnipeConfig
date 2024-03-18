@@ -199,6 +199,66 @@
                     "MaxUnitPrice": 2000000
                 },
                 {
+                    "Class": "Booth",
+                    "Id": "Balloon",
+                    "MaxUnitPrice": 40000
+                },
+                {
+                    "Class": "Booth",
+                    "Id": "Unicorn",
+                    "MaxUnitPrice": 50000
+                },
+                {
+                    "Class": "Booth",
+                    "Id": "Throne",
+                    "MaxUnitPrice": 2000000
+                },
+                {
+                    "Class": "Booth",
+                    "Id": "TNT",
+                    "MaxUnitPrice": 60000
+                },
+                {
+                    "Class": "Booth",
+                    "Id": "Neon Twilight",
+                    "MaxUnitPrice": 750000
+                },
+                {
+                    "Class": "Booth",
+                    "Id": "Monkey",
+                    "MaxUnitPrice": 40000
+                },
+                 {
+                    "Class": "Booth",
+                    "Id": "Money",
+                    "MaxUnitPrice": 1000000
+                },
+                 {
+                    "Class": "Booth",
+                    "Id": "Lucky Block",
+                    "MaxUnitPrice": 75000
+                },
+                 {
+                    "Class": "Booth",
+                    "Id": "Glitched",
+                    "MaxUnitPrice": 1000000
+                },
+                 {
+                    "Class": "Booth",
+                    "Id": "Fruit",
+                    "MaxUnitPrice": 36000
+                },
+                 {
+                    "Class": "Booth",
+                    "Id": "Comet",
+                    "MaxUnitPrice": 1000000
+                },
+                 {
+                    "Class": "Booth",
+                    "Id": "Axolotl",
+                    "MaxUnitPrice": 40000
+                },
+                {
                     "Class": "Lootbox",
                     "Id": "Adventurer Lootbox",
                     "MaxUnitPrice": 5000000
