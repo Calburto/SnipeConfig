@@ -114,11 +114,6 @@
             "MinimumGemsWarning": "50000",
             "SnipingList": [
                 {
-                    "Class": "Pet",
-                    "IsTitanic": true,
-                    "MaxUnitPrice": 1000000001
-                },
-                {
                     "Class": "Lootbox",
                     "Id": "Adventurer Lootbox",
                     "MaxUnitPrice": 5000000
@@ -295,45 +290,6 @@
                     "MaxUnitPrice": 1
                 },
                 {
-                    "Class": "Pet",
-                    "IsHuge": true,
-                    "MaxUnitPrice": 5000001
-                },
-                {
-                    "Class": "Pet",
-                    "IsHuge": true,
-                    "IsShiny": true,
-                    "MaxUnitPrice": 8500001
-                },
-                {
-                    "Class": "Pet",
-                    "IsHuge": true,
-                    "IsGolden": true,
-                    "MaxUnitPrice": 5500001
-                },
-                {
-                    "Class": "Pet",
-                    "IsHuge": true,
-                    "IsRainbow": true,
-                    "MaxUnitPrice": 6500001
-                },
-                {
-                    "Class": "Booth",
-                    "MaxUnitPrice": 5001
-                },
-                {
-                    "Class": "Fruit",
-                    "MaxUnitPrice": 1
-                },
-                {
-                    "Class": "Misc",
-                    "MaxUnitPrice": 1
-                },
-                {
-                    "Class": "Lootbox",
-                    "MaxUnitPrice": 1
-                },
-                {
                     "Class": "Lootbox",
                     "Id": "Small Christmas Present",
                     "MaxUnitPrice": 8280
@@ -347,17 +303,6 @@
                     "Class": "Lootbox",
                     "Id": "Titanic Christmas Present",
                     "MaxUnitPrice": 1440000
-                },
-                {
-                    "Class": "Pet",
-                    "Rarity": [
-                        "Exclusive"
-                    ],
-                    "MaxUnitPrice": 500001
-                },
-                {
-                    "Class": "Misc",
-                    "MaxUnitPrice": 1
                 },
                 {
                     "Class": "Misc",
@@ -405,8 +350,55 @@
                     "MaxUnitPrice": 1966
                 },
                 {
+                    "Class": "Pet",
+                    "IsTitanic": true,
+                    "MaxUnitPrice": 1000000001
+                },
+                {
+                    "Class": "Pet",
+                    "IsHuge": true,
+                    "MaxUnitPrice": 5000001
+                },
+                {
+                    "Class": "Pet",
+                    "IsHuge": true,
+                    "IsShiny": true,
+                    "MaxUnitPrice": 8500001
+                },
+                {
+                    "Class": "Pet",
+                    "IsHuge": true,
+                    "IsGolden": true,
+                    "MaxUnitPrice": 5500001
+                },
+                {
+                    "Class": "Pet",
+                    "IsHuge": true,
+                    "IsRainbow": true,
+                    "MaxUnitPrice": 6500001
+                },
+                {
                     "Class": "Lootbox",
                     "MaxUnitPrice": 1000
+                },
+                {
+                    "Class": "Misc",
+                    "MaxUnitPrice": 1
+                },
+                {
+                    "Class": "Fruit",
+                    "MaxUnitPrice": 1
+                },
+                {
+                    "Class": "Pet",
+                    "Rarity": [
+                        "Exclusive"
+                    ],
+                    "MaxUnitPrice": 500001
+                },
+                {
+                    "Class": "Booth",
+                    "MaxUnitPrice": 5001
                 },
                 {
                     "Class": "Pet",
