@@ -114,6 +114,91 @@
             "MinimumGemsWarning": "50000",
             "SnipingList": [
                 {
+                    "Class": "Booth",
+                    "Id": "Panda",
+                    "MaxUnitPrice": 200000
+                },
+                {
+                    "Class": "Booth",
+                    "Id": "Corgi",
+                    "MaxUnitPrice": 150000
+                },
+                {
+                    "Class": "Booth",
+                    "Id": "Cat",
+                    "MaxUnitPrice": 15000
+                },
+                {
+                    "Class": "Booth",
+                    "Id": "Merchant",
+                    "MaxUnitPrice": 30000
+                },
+                {
+                    "Class": "Booth",
+                    "Id": "Lightning",
+                    "MaxUnitPrice": 44000
+                },
+                {
+                    "Class": "Booth",
+                    "Id": "Hippomelon",
+                    "MaxUnitPrice": 15000
+                },
+                {
+                    "Class": "Booth",
+                    "Id": "Dragon",
+                    "MaxUnitPrice": 8000
+                },
+                {
+                    "Class": "Booth",
+                    "Id": "Rainbow",
+                    "MaxUnitPrice": 8000
+                },
+                {
+                    "Class": "Booth",
+                    "Id": "Present",
+                    "MaxUnitPrice": 2000000
+                },
+                {
+                    "Class": "Booth",
+                    "Id": "Parrot",
+                    "MaxUnitPrice": 150000
+                },
+                {
+                    "Class": "Booth",
+                    "Id": "M-10",
+                    "MaxUnitPrice": 1500000
+                },
+                {
+                    "Class": "Booth",
+                    "Id": "Gold",
+                    "MaxUnitPrice": 7000
+                },
+                {
+                    "Class": "Booth",
+                    "Id": "Galaxy",
+                    "MaxUnitPrice": 2000000
+                },
+                {
+                    "Class": "Booth",
+                    "Id": "Fishing",
+                    "MaxUnitPrice": 15000
+                },
+                {
+                    "Class": "Booth",
+                    "Id": "Empyrean",
+                    "MaxUnitPrice": 2000000
+                },
+                {
+                    "Class": "Booth",
+                    "Id": "Egg",
+                    "MaxUnitPrice": 6000
+                },
+                {
+                    "Class": "Booth",
+                    "Id": "Cupcake",
+                    "MaxUnitPrice": 2000000
+                },
+                {
                     "Class": "Lootbox",
                     "Id": "Adventurer Lootbox",
                     "MaxUnitPrice": 5000000
