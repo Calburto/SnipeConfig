@@ -405,6 +405,10 @@
                     "MaxUnitPrice": 1966
                 },
                 {
+                    "Class": "Lootbox",
+                    "MaxUnitPrice": 1000
+                },
+                {
                     "Class": "Pet",
                     "Rarity": [
                         "Celestial",
