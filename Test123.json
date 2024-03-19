@@ -117,6 +117,391 @@
             "MinimumGemsWarning": "50000",
             "SnipingList": [
                 {
+                    "Class": "Misc",
+                    "Id": "Comet",
+                    "MaxUnitPrice": 20
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "TNT Crate",
+                    "MaxUnitPrice": 200
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Fortune Flag",
+                    "MaxUnitPrice": 100
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "TNT",
+                    "MaxUnitPrice": 10
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Basic Coin Jar",
+                    "MaxUnitPrice": 5
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Giant Coin Jar",
+                    "MaxUnitPrice": 300
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Nametag",
+                    "MaxUnitPrice": 20
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Diamonds Flag",
+                    "MaxUnitPrice": 10
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Hasty Flag",
+                    "MaxUnitPrice": 5
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Magnet Flag",
+                    "MaxUnitPrice": 10
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Toy Ball",
+                    "MaxUnitPrice": 10
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Magic Coin Jar",
+                    "MaxUnitPrice": 1
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Rainbow Swirl",
+                    "MaxUnitPrice": 20
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Crystal Key Lower Half",
+                    "MaxUnitPrice": 100
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Toy Bone",
+                    "MaxUnitPrice": 10
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Crystal Key Upper Half",
+                    "MaxUnitPrice": 1000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Coins Flag",
+                    "MaxUnitPrice": 5
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Large Gift Bag",
+                    "MaxUnitPrice": 2000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Crystal Key",
+                    "MaxUnitPrice": 2000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Crystal Key",
+                    "MaxUnitPrice": 2500
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Booth Slot Voucher",
+                    "MaxUnitPrice": 50000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Squeeky Toy",
+                    "MaxUnitPrice": 15
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Spinny Wheel Ticket",
+                    "MaxUnitPrice": 1200
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Golden Shovel",
+                    "MaxUnitPrice": 10000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Clan Voucher",
+                    "MaxUnitPrice": 150000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Golden Fishing Rod",
+                    "MaxUnitPrice": 50000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Insta Plant Capsule",
+                    "MaxUnitPrice": 2500
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Charm Stone",
+                    "MaxUnitPrice": 5000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Seed Bag",
+                    "MaxUnitPrice": 1000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Golden Watering Can",
+                    "MaxUnitPrice": 15000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Exotic Treasure Flag",
+                    "MaxUnitPrice": 25000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Snowball Launcher",
+                    "MaxUnitPrice": 75
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Hot Cocoa",
+                    "MaxUnitPrice": 75
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Christmess Cookie",
+                    "MaxUnitPrice": 50
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Blue Christmas Ornament",
+                    "MaxUnitPrice": 500
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Silver Christmas Ornament",
+                    "MaxUnitPrice": 500
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Red Christmas Ornament",
+                    "MaxUnitPrice": 500
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Green Christmas Ornament",
+                    "MaxUnitPrice": 500
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Gold Christmas Ornament",
+                    "MaxUnitPrice": 2500
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Pink Christmas Ornament",
+                    "MaxUnitPrice": 500
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Fireworks",
+                    "MaxUnitPrice": 15
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Firework Cannon",
+                    "MaxUnitPrice": 500
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Potion Bundle",
+                    "MaxUnitPrice": 60
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Mini Lucky Block",
+                    "MaxUnitPrice": 300
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Enchant Bundle",
+                    "MaxUnitPrice": 50
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Toy Bundle",
+                    "MaxUnitPrice": 50
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Secret Key",
+                    "MaxUnitPrice": 5000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Party Box",
+                    "MaxUnitPrice": 95
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Mini Panata",
+                    "MaxUnitPrice": 4000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Flag Bundle",
+                    "MaxUnitPrice": 50
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Slingshot",
+                    "MaxUnitPrice": 5
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Rainbow Flag",
+                    "MaxUnitPrice": 100
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Strength Flag",
+                    "MaxUnitPrice": 11
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Mini Chest",
+                    "MaxUnitPrice": 3000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Secret Key Lower Half",
+                    "MaxUnitPrice": 160
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Daycare Slot Voucher",
+                    "MaxUnitPrice": 6000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Shiny Flag",
+                    "MaxUnitPrice": 90
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Bucket",
+                    "MaxUnitPrice": 50
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Secret Key Upper Half",
+                    "MaxUnitPrice": 4000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Diamond Fishing Rod",
+                    "MaxUnitPrice": 3100000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Diamond Shovel",
+                    "MaxUnitPrice": 1700000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Bochet O' Magic",
+                    "MaxUnitPrice": 800
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Magic Shard",
+                    "MaxUnitPrice": 900
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Mystery Ticket",
+                    "MaxUnitPrice": 1500000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Breakable Sprinkler",
+                    "MaxUnitPrice": 260
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Tech Spinny Wheel Ticket",
+                    "MaxUnitPrice": 800
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Tech Key Upper Half",
+                    "MaxUnitPrice": 4000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Tech Key",
+                    "MaxUnitPrice": 5000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Tech Key Lower Half",
+                    "MaxUnitPrice": 100
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Charm Hammer",
+                    "MaxUnitPrice": 450
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Charm Chisel",
+                    "MaxUnitPrice": 5000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Fruit Bundle",
+                    "MaxUnitPrice": 220
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Large Potion Bundle",
+                    "MaxUnitPrice": 500
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Large Enchant Bundle",
+                    "MaxUnitPrice": 900
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Arcade Token",
+                    "MaxUnitPrice": 50000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Exclusive Daycare Slot Voucher",
+                    "MaxUnitPrice": 60000
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Basic Item Jar",
+                    "MaxUnitPrice": 9500
+                },
+                {
                     "Class": "Booth",
                     "Id": "Panda",
                     "MaxUnitPrice": 200000
@@ -265,11 +650,6 @@
                     "Class": "Lootbox",
                     "Id": "Adventurer Lootbox",
                     "MaxUnitPrice": 5000000
-                },
-                {
-                    "Class": "Misc",
-                    "Id": "Exclusive Daycare Slot Voucher",
-                    "MaxUnitPrice": 1000000
                 },
                 {
                     "Class": "Misc",
