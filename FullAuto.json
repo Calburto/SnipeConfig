@@ -107,7 +107,7 @@
             "RAPDiscountPercentage": 3
         },
         "Sniping": {
-            "StartSnipingPet": true
+            "StartSnipingPet": true,
             "AutoRapBuy": true,
             "HopAfterHuge": true,
             "MinimumGemsWarning": 25000000,
