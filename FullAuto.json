@@ -146,7 +146,7 @@
                 {
                     "Class": "Misc",
                     "MaxUnitPrice": 1000000,
-                    "RapBuy": true
+                    "RAPBuy": true
                 },
                 {
                     "Class": "Pet",
@@ -162,7 +162,7 @@
                         "Basic"
                     ],
                     "MaxUnitPrice": 50000,
-                    "RapBuy": true
+                    "RAPBuy": true
                 }
             ],
             "StartSnipingPet": true,
