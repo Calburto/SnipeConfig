@@ -116,6 +116,54 @@
             "HopAfterHuge": true,
             "MinimumGemsWarning": "50000",
             "SnipingList": [
+                {
+                    "Class": "Pet",
+                    "Type": "Exclusive",
+                    "IsGolden": true,
+                    "MaxUnitPrice": 2500000,
+                    "RAPBuy": true
+                },
+                {
+                    "Class": "Pet",
+                    "Type": "Exclusive",
+                    "IsRainbow": true,
+                    "MaxUnitPrice": 3000000,
+                    "RAPBuy": true
+                },
+                {
+                    "Class": "Pet",
+                    "Type": "Exclusive",
+                    "IsShiny": true,
+                    "MaxUnitPrice": 2000000,
+                    "RAPBuy": true
+                },
+                {
+                    "Class": "Pet",
+                    "Type": "Exclusive",
+                    "MaxUnitPrice": 2000000,
+                    "RAPBuy": true
+                },
+                {
+                    "Class": "Misc",
+                    "MaxUnitPrice": 1000000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Pet",
+                    "Rarity": [
+                        "Celestial",
+                        "Superior",
+                        "Divine",
+                        "Exotic",
+                        "Mythical",
+                        "Legendary",
+                        "Epic",
+                        "Rare",
+                        "Basic"
+                    ],
+                    "MaxUnitPrice": 1000,
+                    "RapBuy": true
+                }
             ],
             "StartSnipingPet": true,
             "WaitAfterTP": "0.2"
