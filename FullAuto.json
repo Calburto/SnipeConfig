@@ -121,32 +121,32 @@
                     "Type": "Exclusive",
                     "IsGolden": true,
                     "MaxUnitPrice": 2500000,
-                    "RAPBuy": true
+                    "RapBuy": true
                 },
                 {
                     "Class": "Pet",
                     "Type": "Exclusive",
                     "IsRainbow": true,
                     "MaxUnitPrice": 3000000,
-                    "RAPBuy": true
+                    "RapBuy": true
                 },
                 {
                     "Class": "Pet",
                     "Type": "Exclusive",
                     "IsShiny": true,
                     "MaxUnitPrice": 2000000,
-                    "RAPBuy": true
+                    "RapBuy": true
                 },
                 {
                     "Class": "Pet",
                     "Type": "Exclusive",
                     "MaxUnitPrice": 2000000,
-                    "RAPBuy": true
+                    "RapBuy": true
                 },
                 {
                     "Class": "Misc",
                     "MaxUnitPrice": 1000000,
-                    "RAPBuy": true
+                    "RapBuy": true
                 },
                 {
                     "Class": "Pet",
@@ -162,7 +162,7 @@
                         "Basic"
                     ],
                     "MaxUnitPrice": 50000,
-                    "RAPBuy": true
+                    "RapBuy": true
                 }
             ],
             "StartSnipingPet": true,
