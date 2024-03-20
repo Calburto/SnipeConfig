@@ -107,14 +107,15 @@
             "RAPDiscountPercentage": 3
         },
         "Sniping": {
+            "StartSnipingPet": true
             "AutoRapBuy": true,
+            "HopAfterHuge": true,
+            "MinimumGemsWarning": 25000000,
             "MinPower": 4000000000,
             "BlackList": [
                 "Old Boot",
                 "Snowball"
             ],
-            "HopAfterHuge": true,
-            "MinimumGemsWarning": "50000",
             "SnipingList": [
                 {
                     "Class": "Pet",
@@ -165,8 +166,7 @@
                     "RapBuy": true
                 }
             ],
-            "StartSnipingPet": true,
-            "WaitAfterTP": "0.2"
+            
         }
     }
 }
