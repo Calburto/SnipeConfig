@@ -204,6 +204,21 @@
                     "RapBuy": true
                 },
                 {
+                    "Class": "Booth",
+                    "MaxUnitPrice": 5000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Lootbox",
+                    "MaxUnitPrice": 10000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Ultimate",
+                    "MaxUnitPrice": 1000000,
+                    "RapBuy": true
+                },
+                {
                     "Class": "Pet",
                     "Rarity": [
                         "Celestial",
