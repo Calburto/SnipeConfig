@@ -87,6 +87,11 @@
                     "MaxStackSize": 5000
                 },
                 {
+                    "Class": "Charm",
+                    "UnitPrice": 0,
+                    "MaxStackSize": 5000
+                },
+                {
                     "Class": "Ultimate",
                     "UnitPrice": 0,
                     "MaxStackSize": 5000
