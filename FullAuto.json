@@ -87,11 +87,6 @@
                     "MaxStackSize": 5000
                 },
                 {
-                    "Class": "Charm",
-                    "UnitPrice": 0,
-                    "MaxStackSize": 5000
-                },
-                {
                     "Class": "Ultimate",
                     "UnitPrice": 0,
                     "MaxStackSize": 5000
@@ -216,6 +211,11 @@
                 },
                 {
                     "Class": "Charm",
+                    "MaxUnitPrice": 2000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Enchant",
                     "MaxUnitPrice": 2000,
                     "RapBuy": true
                 },
