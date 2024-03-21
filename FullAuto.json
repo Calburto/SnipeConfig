@@ -210,6 +210,11 @@
                     "RapBuy": true
                 },
                 {
+                    "Class": "Charm",
+                    "MaxUnitPrice": 2000,
+                    "RapBuy": true
+                },
+                {
                     "Class": "Pet",
                     "Rarity": [
                         "Celestial",
