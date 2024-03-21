@@ -118,6 +118,60 @@
             ],
             "SnipingList": [
                 {
+                    "Class": "Misc",
+                    "Id": "Booth Slot Voucher"
+                    "MaxUnitPrice": 50000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Golden Shovel"
+                    "MaxUnitPrice": 99439,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Diamond Shovel"
+                    "MaxUnitPrice": 3228062,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Clan Voucher"
+                    "MaxUnitPrice": 1640811,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Golden Fishing Rod"
+                    "MaxUnitPrice": 30808,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Diamond Fishing Rod"
+                    "MaxUnitPrice": 7555929,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Exotic Treasure Flag"
+                    "MaxUnitPrice": 39183,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Mystery Ticket"
+                    "MaxUnitPrice": 3891304,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Exclusive Daycare Slot Voucher"
+                    "MaxUnitPrice": 1184895,
+                    "RapBuy": true
+                },                
+                {
                     "Class": "Pet",
                     "Type": "Exclusive",
                     "IsGolden": true,
