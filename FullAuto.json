@@ -161,7 +161,12 @@
                     "Class": "Misc",
                     "Id": "Exclusive Daycare Slot Voucher",
                     "MaxUnitPrice": 1184895
-                },                
+                },  
+                {
+                    "Class": "Pet",
+                    "IsTitanic": true,
+                    "MaxUnitPrice": 1000000001
+                },
                 {
                     "Class": "Pet",
                     "Type": "Exclusive",
