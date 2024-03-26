@@ -104,7 +104,7 @@
             ],
             "StartSellingPet": true,
             "MinPower": 3000000000,
-            "RAPDiscountPercentage": 3
+            "RAPDiscountPercentage": 1
         },
         "Sniping": {
             "StartSnipingPet": true,
