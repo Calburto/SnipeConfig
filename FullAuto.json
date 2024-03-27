@@ -284,13 +284,6 @@
                 {
                     "Class": "Pet",
                     "Type": "Exclusive",
-                    "IsShiny": true,
-                    "MaxUnitPrice": 2000000,
-                    "RapBuy": true
-                },
-                {
-                    "Class": "Pet",
-                    "Type": "Exclusive",
                     "MaxUnitPrice": 2000000,
                     "RapBuy": true
                 },
@@ -327,6 +320,11 @@
                 {
                     "Class": "Enchant",
                     "MaxUnitPrice": 2000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Fruit",
+                    "MaxUnitPrice": 500,
                     "RapBuy": true
                 },
                 {
