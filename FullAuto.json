@@ -320,6 +320,11 @@
                     "RapBuy": true
                 },
                 {
+                    "Class": "Potion",
+                    "MaxUnitPrice": 2000,
+                    "RapBuy": true
+                },
+                {
                     "Class": "Enchant",
                     "MaxUnitPrice": 2000,
                     "RapBuy": true
