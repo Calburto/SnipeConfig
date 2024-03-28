@@ -693,6 +693,11 @@
                     "RapBuy": true
                 },
                 {
+                    "Class": "Egg",
+                    "MaxUnitPrice": 100000,
+                    "RapBuy": true
+                },
+                {
                     "Class": "Ultimate",
                     "MaxUnitPrice": 1000000,
                     "RapBuy": true
