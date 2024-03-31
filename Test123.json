@@ -903,7 +903,7 @@
                 },
                 {
                     "Class": "Misc",
-                    "MaxUnitPrice": 500,
+                    "MaxUnitPrice": 50,
                     "RapBuy": true
                 },
                 {
@@ -924,18 +924,6 @@
                 {
                     "Class": "Charm",
                     "MaxUnitPrice": 500,
-                    "RapBuy": true
-                },
-                {
-                    "Class": "Potion",
-                    "MaxUnitPrice": 500,
-                    "MinTier": 5,
-                    "RapBuy": true
-                },
-                {
-                    "Class": "Enchant",
-                    "MaxUnitPrice": 500,
-                    "MinTier": 5
                     "RapBuy": true
                 },
                 {
