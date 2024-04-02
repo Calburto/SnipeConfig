@@ -677,13 +677,13 @@
                     "Class": "Enchant",
                     "Id": "Super Magnet",
                     "MinTier": 1,
-                    "MaxUnitPrice": 20856933
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Boss Chest Mimic",
                     "MinTier": 1,
-                    "MaxUnitPrice": 41077182
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
@@ -719,13 +719,13 @@
                     "Class": "Enchant",
                     "Id": "Magic Orb",
                     "MinTier": 1,
-                    "MaxUnitPrice": 36461
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Large Taps",
                     "MinTier": 1,
-                    "MaxUnitPrice": 511
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
@@ -743,13 +743,13 @@
                     "Class": "Enchant",
                     "Id": "Diamond Chest Mimic",
                     "MinTier": 1,
-                    "MaxUnitPrice": 25113454
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Party Time",
                     "MinTier": 1,
-                    "MaxUnitPrice": 2594299
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
@@ -797,7 +797,7 @@
                     "Class": "Enchant",
                     "Id": "Lucky Eggs",
                     "MinTier": 3,
-                    "MaxUnitPrice": 50
+                    "MaxUnitPrice": 20
                 },
                 {
                     "Class": "Enchant",
@@ -821,7 +821,7 @@
                     "Class": "Enchant",
                     "Id": "Exotic Pet",
                     "MinTier": 1,
-                    "MaxUnitPrice": 1819
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
@@ -833,7 +833,7 @@
                     "Class": "Enchant",
                     "Id": "Walkspeed",
                     "MinTier": 3,
-                    "MaxUnitPrice": 50
+                    "MaxUnitPrice": 20
                 },
                 {
                     "Class": "Enchant",
@@ -857,19 +857,19 @@
                     "Class": "Enchant",
                     "Id": "Tap Power",
                     "MinTier": 2,
-                    "MaxUnitPrice": 25
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Criticals",
                     "MinTier": 4,
-                    "MaxUnitPrice": 50
+                    "MaxUnitPrice": 30
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Strong Pets",
                     "MinTier": 2,
-                    "MaxUnitPrice": 25
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
@@ -881,7 +881,7 @@
                     "Class": "Enchant",
                     "Id": "Coins",
                     "MinTier": 4,
-                    "MaxUnitPrice": 50
+                    "MaxUnitPrice": 30
                 },
                 {
                     "Class": "Enchant",
@@ -893,7 +893,7 @@
                     "Class": "Enchant",
                     "Id": "Starfall",
                     "MinTier": 1,
-                    "MaxUnitPrice": 208007
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
@@ -905,7 +905,7 @@
                     "Class": "Enchant",
                     "Id": "Fireworks",
                     "MinTier": 1,
-                    "MaxUnitPrice": 41682
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
@@ -923,43 +923,43 @@
                     "Class": "Enchant",
                     "Id": "Coins",
                     "MinTier": 3,
-                    "MaxUnitPrice": 50
+                    "MaxUnitPrice": 20
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Walkspeed",
                     "MinTier": 4,
-                    "MaxUnitPrice": 50
+                    "MaxUnitPrice": 30
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Tap Power",
                     "MinTier": 3,
-                    "MaxUnitPrice": 50
+                    "MaxUnitPrice": 20
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Criticals",
                     "MinTier": 2,
-                    "MaxUnitPrice": 25
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Diamonds",
                     "MinTier": 2,
-                    "MaxUnitPrice": 25
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Strong Pets",
                     "MinTier": 3,
-                    "MaxUnitPrice": 50
+                    "MaxUnitPrice": 20
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Lightning",
                     "MinTier": 1,
-                    "MaxUnitPrice": 286
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
@@ -971,31 +971,31 @@
                     "Class": "Enchant",
                     "Id": "Midas Touch",
                     "MinTier": 1,
-                    "MaxUnitPrice": 2975
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Treasure Hunter",
                     "MinTier": 2,
-                    "MaxUnitPrice": 25
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Diamonds",
                     "MinTier": 3,
-                    "MaxUnitPrice": 50
+                    "MaxUnitPrice": 20
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Super Shiny Hunter",
                     "MinTier": 1,
-                    "MaxUnitPrice": 43499757
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Strong Pets",
                     "MinTier": 4,
-                    "MaxUnitPrice": 50
+                    "MaxUnitPrice": 30
                 },
                 {
                     "Class": "Enchant",
@@ -1019,19 +1019,19 @@
                     "Class": "Enchant",
                     "Id": "Lucky Eggs",
                     "MinTier": 2,
-                    "MaxUnitPrice": 25
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Magnet",
                     "MinTier": 3,
-                    "MaxUnitPrice": 50
+                    "MaxUnitPrice": 20
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Huge Hunter",
                     "MinTier": 1,
-                    "MaxUnitPrice": 2276121
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
@@ -1043,7 +1043,7 @@
                     "Class": "Enchant",
                     "Id": "Treasure Hunter",
                     "MinTier": 4,
-                    "MaxUnitPrice": 50
+                    "MaxUnitPrice": 30
                 },
                 {
                     "Class": "Enchant",
@@ -1061,19 +1061,19 @@
                     "Class": "Enchant",
                     "Id": "Criticals",
                     "MinTier": 3,
-                    "MaxUnitPrice": 50
+                    "MaxUnitPrice": 20
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Fruity",
                     "MinTier": 1,
-                    "MaxUnitPrice": 151830
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Lucky Block",
                     "MinTier": 1,
-                    "MaxUnitPrice": 6976242
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
@@ -1085,13 +1085,13 @@
                     "Class": "Enchant",
                     "Id": "Lucky Eggs",
                     "MinTier": 4,
-                    "MaxUnitPrice": 50
+                    "MaxUnitPrice": 30
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Coins",
                     "MinTier": 2,
-                    "MaxUnitPrice": 25
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
@@ -1103,25 +1103,25 @@
                     "Class": "Enchant",
                     "Id": "Tap Power",
                     "MinTier": 4,
-                    "MaxUnitPrice": 50
+                    "MaxUnitPrice": 30
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Treasure Hunter",
                     "MinTier": 3,
-                    "MaxUnitPrice": 50
+                    "MaxUnitPrice": 20
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Fortune",
                     "MinTier": 1,
-                    "MaxUnitPrice": 2301
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Diamonds",
                     "MinTier": 4,
-                    "MaxUnitPrice": 50
+                    "MaxUnitPrice": 30
                 },
                 {
                     "Class": "Enchant",
@@ -1133,7 +1133,7 @@
                     "Class": "Enchant",
                     "Id": "Walkspeed",
                     "MinTier": 2,
-                    "MaxUnitPrice": 25
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
@@ -1145,7 +1145,7 @@
                     "Class": "Enchant",
                     "Id": "Explosive",
                     "MinTier": 1,
-                    "MaxUnitPrice": 612
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
@@ -1181,37 +1181,37 @@
                     "Class": "Enchant",
                     "Id": "Massive Comet",
                     "MinTier": 1,
-                    "MaxUnitPrice": 10747000
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Chest Mimic",
                     "MinTier": 1,
-                    "MaxUnitPrice": 193158466
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Boss Lucky Block",
                     "MinTier": 1,
-                    "MaxUnitPrice": 40922679
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Shiny Hunter",
                     "MinTier": 1,
-                    "MaxUnitPrice": 258159
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Magnet",
                     "MinTier": 2,
-                    "MaxUnitPrice": 25
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Super Lightning",
                     "MinTier": 1,
-                    "MaxUnitPrice": 35572
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Potion",
