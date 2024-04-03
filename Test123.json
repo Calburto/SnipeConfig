@@ -125,6 +125,29 @@
                 {
                     "Class": "Pet",
                     "Type": "Exclusive",
+                    "IsHuge": true,
+                    "IsGolden": true,
+                    "MaxUnitPrice": 10500000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Pet",
+                    "Type": "Exclusive",
+                    "IsHuge": true,
+                    "IsRainbow": true,
+                    "MaxUnitPrice": 15000000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Pet",
+                    "Type": "Exclusive",
+                    "IsHuge": true,
+                    "MaxUnitPrice": 10000000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Pet",
+                    "Type": "Exclusive",
                     "IsGolden": true,
                     "MaxUnitPrice": 2500000,
                     "RapBuy": true
