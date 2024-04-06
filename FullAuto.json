@@ -167,6 +167,11 @@
                     "RapBuy": true
                 },
                 {
+                    "Class": "XPPotion",
+                    "MaxUnitPrice": 100000,
+                    "RapBuy": true
+                },
+                {
                     "Class": "Misc",
                     "MaxUnitPrice": 50,
                     "RapBuy": true
