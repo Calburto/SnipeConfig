@@ -52,6 +52,11 @@
                     "MaxStackSize": 5000
                 },
                 {
+                    "Class": "XPPotion",
+                    "UnitPrice": 0,
+                    "MaxStackSize": 5000
+                },
+                {
                     "Class": "Fruit",
                     "UnitPrice": 0,
                     "MaxStackSize": 5000
