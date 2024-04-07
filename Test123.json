@@ -177,6 +177,11 @@
                     "RapBuy": true
                 },
                 {
+                    "Class": "XPPotion",
+                    "MaxUnitPrice": 100000,
+                    "RapBuy": true
+                },
+                {
                     "Class": "Lootbox",
                     "MaxUnitPrice": 10000,
                     "RapBuy": true
