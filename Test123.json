@@ -129,95 +129,6 @@
                     "MaxUnitPrice": 1000000001
                 },
                 {
-                    "Class": "Pet",
-                    "Type": "Exclusive",
-                    "IsHuge": true,
-                    "IsGolden": true,
-                    "MaxUnitPrice": 12500000,
-                    "RapBuy": true
-                },
-                {
-                    "Class": "Pet",
-                    "Type": "Exclusive",
-                    "IsHuge": true,
-                    "IsRainbow": true,
-                    "MaxUnitPrice": 15000000,
-                    "RapBuy": true
-                },
-                {
-                    "Class": "Pet",
-                    "Type": "Exclusive",
-                    "IsHuge": true,
-                    "MaxUnitPrice": 10000000,
-                    "RapBuy": true
-                },
-                {
-                    "Class": "Pet",
-                    "Type": "Exclusive",
-                    "IsGolden": true,
-                    "MaxUnitPrice": 750000,
-                    "RapBuy": true
-                },
-                {
-                    "Class": "Pet",
-                    "Type": "Exclusive",
-                    "IsRainbow": true,
-                    "MaxUnitPrice": 1000000,
-                    "RapBuy": true
-                },
-                {
-                    "Class": "Pet",
-                    "Type": "Exclusive",
-                    "MaxUnitPrice": 500000,
-                    "RapBuy": true
-                },
-                {
-                    "Class": "Misc",
-                    "MaxUnitPrice": 50,
-                    "RapBuy": true
-                },
-                {
-                    "Class": "XPPotion",
-                    "MaxUnitPrice": 100000,
-                    "RapBuy": true
-                },
-                {
-                    "Class": "Lootbox",
-                    "MaxUnitPrice": 10000,
-                    "RapBuy": true
-                },
-                {
-                    "Class": "Ultimate",
-                    "MaxUnitPrice": 1000000,
-                    "RapBuy": true
-                },
-                {
-                    "Class": "Charm",
-                    "MaxUnitPrice": 500,
-                    "RapBuy": true
-                },
-                {
-                    "Class": "Fruit",
-                    "MaxUnitPrice": 50,
-                    "RapBuy": true
-                },
-                {
-                    "Class": "Pet",
-                    "Rarity": [
-                        "Celestial",
-                        "Superior",
-                        "Divine",
-                        "Exotic",
-                        "Mythical",
-                        "Legendary",
-                        "Epic",
-                        "Rare",
-                        "Basic"
-                    ],
-                    "MaxUnitPrice": 5000,
-                    "RapBuy": true
-                },
-                {
                     "Class": "XPPotion",
                     "Id": "Huge",
                     "MaxUnitPrice": 153059
@@ -1736,6 +1647,95 @@
                     "Class": "Ultimate",
                     "Id": "Black Hole",
                     "MaxUnitPrice": 44375524
+                },
+                {
+                    "Class": "Pet",
+                    "Type": "Exclusive",
+                    "IsHuge": true,
+                    "IsGolden": true,
+                    "MaxUnitPrice": 12500000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Pet",
+                    "Type": "Exclusive",
+                    "IsHuge": true,
+                    "IsRainbow": true,
+                    "MaxUnitPrice": 15000000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Pet",
+                    "Type": "Exclusive",
+                    "IsHuge": true,
+                    "MaxUnitPrice": 10000000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Pet",
+                    "Type": "Exclusive",
+                    "IsGolden": true,
+                    "MaxUnitPrice": 750000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Pet",
+                    "Type": "Exclusive",
+                    "IsRainbow": true,
+                    "MaxUnitPrice": 1000000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Pet",
+                    "Type": "Exclusive",
+                    "MaxUnitPrice": 500000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Misc",
+                    "MaxUnitPrice": 50,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "XPPotion",
+                    "MaxUnitPrice": 100000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Lootbox",
+                    "MaxUnitPrice": 10000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Ultimate",
+                    "MaxUnitPrice": 1000000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Charm",
+                    "MaxUnitPrice": 500,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Fruit",
+                    "MaxUnitPrice": 50,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Pet",
+                    "Rarity": [
+                        "Celestial",
+                        "Superior",
+                        "Divine",
+                        "Exotic",
+                        "Mythical",
+                        "Legendary",
+                        "Epic",
+                        "Rare",
+                        "Basic"
+                    ],
+                    "MaxUnitPrice": 5000,
+                    "RapBuy": true
                 }
             ]
         }
