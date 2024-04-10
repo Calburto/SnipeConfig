@@ -1722,6 +1722,11 @@
                     "RapBuy": true
                 },
                 {
+                    "Class": "Egg",
+                    "MaxUnitPrice": 100000,
+                    "RapBuy": true
+                },
+                {
                     "Class": "Pet",
                     "Rarity": [
                         "Celestial",
