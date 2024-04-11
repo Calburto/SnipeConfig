@@ -114,7 +114,7 @@
         "Sniping": {
             "StartSnipingPet": true,
             "AutoRapBuy": true,
-            "HopAfterHuge": false,
+            "HopAfterHuge": true,
             "MinimumGemsWarning": 25000000,
             "MinPower": 100000000000,
             "BlackList": [
