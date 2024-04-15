@@ -126,7 +126,7 @@
                 {
                     "Class": "Pet",
                     "IsTitanic": true,
-                    "MaxUnitPrice": 1000000001
+                    "MaxUnitPrice": 1500000001
                 },
                 {
                     "Class": "Potion",
@@ -630,37 +630,37 @@
                     "Class": "Enchant",
                     "Id": "Lucky Eggs",
                     "MinTier": 3,
-                    "MaxUnitPrice": 20
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Walkspeed",
                     "MinTier": 3,
-                    "MaxUnitPrice": 20
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Coins",
                     "MinTier": 3,
-                    "MaxUnitPrice": 20
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Tap Power",
                     "MinTier": 3,
-                    "MaxUnitPrice": 20
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Strong Pets",
                     "MinTier": 3,
-                    "MaxUnitPrice": 20
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Diamonds",
                     "MinTier": 3,
-                    "MaxUnitPrice": 20
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
@@ -672,13 +672,13 @@
                     "Class": "Enchant",
                     "Id": "Criticals",
                     "MinTier": 3,
-                    "MaxUnitPrice": 20
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Treasure Hunter",
                     "MinTier": 3,
-                    "MaxUnitPrice": 20
+                    "MaxUnitPrice": 10
                 },
                 {
                     "Class": "Potion",
@@ -720,49 +720,49 @@
                     "Class": "Enchant",
                     "Id": "Tap Power",
                     "MinTier": 2,
-                    "MaxUnitPrice": 10
+                    "MaxUnitPrice": 1
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Strong Pets",
                     "MinTier": 2,
-                    "MaxUnitPrice": 10
+                    "MaxUnitPrice": 1
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Criticals",
                     "MinTier": 2,
-                    "MaxUnitPrice": 10
+                    "MaxUnitPrice": 1
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Diamonds",
                     "MinTier": 2,
-                    "MaxUnitPrice": 10
+                    "MaxUnitPrice": 1
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Treasure Hunter",
                     "MinTier": 2,
-                    "MaxUnitPrice": 10
+                    "MaxUnitPrice": 1
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Lucky Eggs",
                     "MinTier": 2,
-                    "MaxUnitPrice": 10
+                    "MaxUnitPrice": 1
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Coins",
                     "MinTier": 2,
-                    "MaxUnitPrice": 10
+                    "MaxUnitPrice": 1
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Walkspeed",
                     "MinTier": 2,
-                    "MaxUnitPrice": 10
+                    "MaxUnitPrice": 1
                 },
                 {
                     "Class": "Enchant",
@@ -822,67 +822,67 @@
                     "Class": "Enchant",
                     "Id": "Blast",
                     "MinTier": 1,
-                    "MaxUnitPrice": 10
+                    "MaxUnitPrice": 1
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Happy Pets",
                     "MinTier": 1,
-                    "MaxUnitPrice": 10
+                    "MaxUnitPrice": 1
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Chest Breaker",
                     "MinTier": 1,
-                    "MaxUnitPrice": 10
+                    "MaxUnitPrice": 1
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Treasure Hunter",
                     "MinTier": 1,
-                    "MaxUnitPrice": 10
+                    "MaxUnitPrice": 1
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Tap Teamwork",
                     "MinTier": 1,
-                    "MaxUnitPrice": 10
+                    "MaxUnitPrice": 1
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Walkspeed",
                     "MinTier": 1,
-                    "MaxUnitPrice": 10
+                    "MaxUnitPrice": 1
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Diamonds",
                     "MinTier": 1,
-                    "MaxUnitPrice": 10
+                    "MaxUnitPrice": 1
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Lucky Eggs",
                     "MinTier": 1,
-                    "MaxUnitPrice": 10
+                    "MaxUnitPrice": 1
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Tap Power",
                     "MinTier": 1,
-                    "MaxUnitPrice": 10
+                    "MaxUnitPrice": 1
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Strong Pets",
                     "MinTier": 1,
-                    "MaxUnitPrice": 10
+                    "MaxUnitPrice": 1
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Coins",
                     "MinTier": 1,
-                    "MaxUnitPrice": 10
+                    "MaxUnitPrice": 1
                 },
                 {
                     "Class": "Enchant",
@@ -894,7 +894,7 @@
                     "Class": "Enchant",
                     "Id": "Criticals",
                     "MinTier": 1,
-                    "MaxUnitPrice": 10
+                    "MaxUnitPrice": 1
                 },
                 {
                     "Class": "XPPotion",
