@@ -1846,7 +1846,12 @@
                 },
                 {
                     "Class": "Egg",
-                    "MaxUnitPrice": 100000,
+                    "MaxUnitPrice": 1000000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Hoverboard",
+                    "MaxUnitPrice": 1000000,
                     "RapBuy": true
                 },
                 {
