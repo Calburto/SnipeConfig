@@ -129,6 +129,37 @@
                     "MaxUnitPrice": 1500000001
                 },
                 {
+                    "Class": "Pet",
+                    "Type": "Exclusive",
+                    "IsHuge": true,
+                    "IsRainbow": true,
+                    "MaxUnitPrice": 200000000,
+                    "RapBuy": true
+                },                
+                {
+                    "Class": "Pet",
+                    "Type": "Exclusive",
+                    "IsHuge": true,
+                    "IsShiny": true,
+                    "MaxUnitPrice": 200000000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Pet",
+                    "Type": "Exclusive",
+                    "IsHuge": true,
+                    "IsGolden": true,
+                    "MaxUnitPrice": 75000000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Pet",
+                    "Type": "Exclusive",
+                    "IsHuge": true,
+                    "MaxUnitPrice": 57000000,
+                    "RapBuy": true
+                },
+                {
                     "Class": "Potion",
                     "Id": "Lucky",
                     "MinTier": 10,
@@ -1770,29 +1801,6 @@
                     "Class": "Ultimate",
                     "Id": "Black Hole",
                     "MaxUnitPrice": 48216270
-                },
-                {
-                    "Class": "Pet",
-                    "Type": "Exclusive",
-                    "IsHuge": true,
-                    "IsGolden": true,
-                    "MaxUnitPrice": 12500000,
-                    "RapBuy": true
-                },
-                {
-                    "Class": "Pet",
-                    "Type": "Exclusive",
-                    "IsHuge": true,
-                    "IsRainbow": true,
-                    "MaxUnitPrice": 15000000,
-                    "RapBuy": true
-                },
-                {
-                    "Class": "Pet",
-                    "Type": "Exclusive",
-                    "IsHuge": true,
-                    "MaxUnitPrice": 10000000,
-                    "RapBuy": true
                 },
                 {
                     "Class": "Pet",
