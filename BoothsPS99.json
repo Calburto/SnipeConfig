@@ -1510,22 +1510,6 @@
                     "Class": "Hoverboard",
                     "MaxUnitPrice": 1000000,
                     "RapBuy": true
-                },
-                {
-                    "Class": "Pet",
-                    "Rarity": [
-                        "Celestial",
-                        "Superior",
-                        "Divine",
-                        "Exotic",
-                        "Mythical",
-                        "Legendary",
-                        "Epic",
-                        "Rare",
-                        "Basic"
-                    ],
-                    "MaxUnitPrice": 5000,
-                    "RapBuy": true
                 }
             ]
         }
