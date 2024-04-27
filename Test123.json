@@ -1513,6 +1513,40 @@
                 },
                 {
                     "Class": "Pet",
+                    "IsRainbow": true
+                    "Rarity": [
+                        "Celestial",
+                        "Superior",
+                        "Divine",
+                        "Exotic",
+                        "Mythical",
+                        "Legendary",
+                        "Epic",
+                        "Rare",
+                        "Basic"
+                    ],
+                    "MaxUnitPrice": 50,
+                    "RapBuy": true
+                }
+                {
+                    "Class": "Pet",
+                    "IsGolden": true,
+                    "Rarity": [
+                        "Celestial",
+                        "Superior",
+                        "Divine",
+                        "Exotic",
+                        "Mythical",
+                        "Legendary",
+                        "Epic",
+                        "Rare",
+                        "Basic"
+                    ],
+                    "MaxUnitPrice": 50,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Pet",
                     "Rarity": [
                         "Celestial",
                         "Superior",
