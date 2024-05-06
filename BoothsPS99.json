@@ -180,697 +180,687 @@
                     "Class": "Potion",
                     "Id": "Lucky",
                     "MinTier": 10,
-                    "MaxUnitPrice": 46020
+                    "MaxUnitPrice": 41805
                 },
                 {
                     "Class": "Potion",
                     "Id": "Damage",
                     "MinTier": 10,
-                    "MaxUnitPrice": 19157
+                    "MaxUnitPrice": 18839
                 },
                 {
                     "Class": "Potion",
                     "Id": "Coins",
                     "MinTier": 10,
-                    "MaxUnitPrice": 22916
+                    "MaxUnitPrice": 19889
                 },
                 {
                     "Class": "Potion",
                     "Id": "Treasure Hunter",
                     "MinTier": 10,
-                    "MaxUnitPrice": 71242
+                    "MaxUnitPrice": 73587
                 },
                 {
                     "Class": "Potion",
                     "Id": "Treasure Hunter",
                     "MinTier": 9,
-                    "MaxUnitPrice": 16329
+                    "MaxUnitPrice": 15794
                 },
                 {
                     "Class": "Potion",
                     "Id": "Coins",
                     "MinTier": 9,
-                    "MaxUnitPrice": 3353
+                    "MaxUnitPrice": 2351
                 },
                 {
                     "Class": "Potion",
                     "Id": "Damage",
                     "MinTier": 9,
-                    "MaxUnitPrice": 2231
+                    "MaxUnitPrice": 1496
                 },
                 {
                     "Class": "Potion",
                     "Id": "Lucky",
                     "MinTier": 9,
-                    "MaxUnitPrice": 18108
+                    "MaxUnitPrice": 17037
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Lucky Eggs",
                     "MinTier": 9,
-                    "MaxUnitPrice": 570364
+                    "MaxUnitPrice": 771816
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Diamonds",
                     "MinTier": 9,
-                    "MaxUnitPrice": 193930
+                    "MaxUnitPrice": 187212
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Strong Pets",
                     "MinTier": 9,
-                    "MaxUnitPrice": 127512
+                    "MaxUnitPrice": 118873
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Coins",
                     "MinTier": 9,
-                    "MaxUnitPrice": 198083
+                    "MaxUnitPrice": 203033
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Tap Power",
                     "MinTier": 9,
-                    "MaxUnitPrice": 18389
+                    "MaxUnitPrice": 18828
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Criticals",
                     "MinTier": 9,
-                    "MaxUnitPrice": 125979
+                    "MaxUnitPrice": 120176
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Treasure Hunter",
                     "MinTier": 9,
-                    "MaxUnitPrice": 191662
+                    "MaxUnitPrice": 180778
                 },
                 {
                     "Class": "Potion",
                     "Id": "Damage",
                     "MinTier": 8,
-                    "MaxUnitPrice": 1924
+                    "MaxUnitPrice": 2011
                 },
                 {
                     "Class": "Potion",
                     "Id": "Coins",
                     "MinTier": 8,
-                    "MaxUnitPrice": 2322
+                    "MaxUnitPrice": 2461
                 },
                 {
                     "Class": "Potion",
                     "Id": "Lucky",
                     "MinTier": 8,
-                    "MaxUnitPrice": 9927
+                    "MaxUnitPrice": 10366
                 },
                 {
                     "Class": "Potion",
                     "Id": "Treasure Hunter",
                     "MinTier": 8,
-                    "MaxUnitPrice": 1982
+                    "MaxUnitPrice": 1689
                 },
                 {
                     "Class": "Potion",
                     "Id": "Diamonds",
                     "MinTier": 8,
-                    "MaxUnitPrice": 18567
+                    "MaxUnitPrice": 17658
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Lucky Eggs",
                     "MinTier": 8,
-                    "MaxUnitPrice": 89965
+                    "MaxUnitPrice": 88510
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Tap Power",
                     "MinTier": 8,
-                    "MaxUnitPrice": 1736
+                    "MaxUnitPrice": 1497
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Diamonds",
                     "MinTier": 8,
-                    "MaxUnitPrice": 29243
+                    "MaxUnitPrice": 29014
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Treasure Hunter",
                     "MinTier": 8,
-                    "MaxUnitPrice": 8567
+                    "MaxUnitPrice": 6457
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Coins",
                     "MinTier": 8,
-                    "MaxUnitPrice": 9379
+                    "MaxUnitPrice": 10479
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Strong Pets",
                     "MinTier": 8,
-                    "MaxUnitPrice": 6682
+                    "MaxUnitPrice": 4834
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Criticals",
                     "MinTier": 8,
-                    "MaxUnitPrice": 5592
+                    "MaxUnitPrice": 4063
                 },
                 {
                     "Class": "Potion",
                     "Id": "Coins",
                     "MinTier": 7,
-                    "MaxUnitPrice": 232
+                    "MaxUnitPrice": 489
                 },
                 {
                     "Class": "Potion",
                     "Id": "Treasure Hunter",
                     "MinTier": 7,
-                    "MaxUnitPrice": 184
+                    "MaxUnitPrice": 293
                 },
                 {
                     "Class": "Potion",
                     "Id": "Damage",
                     "MinTier": 7,
-                    "MaxUnitPrice": 437
+                    "MaxUnitPrice": 424
                 },
                 {
                     "Class": "Potion",
                     "Id": "Diamonds",
                     "MinTier": 7,
-                    "MaxUnitPrice": 4248
+                    "MaxUnitPrice": 4318
                 },
                 {
                     "Class": "Potion",
                     "Id": "Lucky",
                     "MinTier": 7,
-                    "MaxUnitPrice": 331
+                    "MaxUnitPrice": 647
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Lucky Eggs",
                     "MinTier": 7,
-                    "MaxUnitPrice": 21103
+                    "MaxUnitPrice": 21226
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Tap Power",
                     "MinTier": 7,
-                    "MaxUnitPrice": 3326
+                    "MaxUnitPrice": 1936
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Coins",
                     "MinTier": 7,
-                    "MaxUnitPrice": 25165
+                    "MaxUnitPrice": 26227
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Diamonds",
                     "MinTier": 7,
-                    "MaxUnitPrice": 5437
+                    "MaxUnitPrice": 5376
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Treasure Hunter",
                     "MinTier": 7,
-                    "MaxUnitPrice": 830
+                    "MaxUnitPrice": 728
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Strong Pets",
                     "MinTier": 7,
-                    "MaxUnitPrice": 1178
+                    "MaxUnitPrice": 1140
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Criticals",
                     "MinTier": 7,
-                    "MaxUnitPrice": 2072
+                    "MaxUnitPrice": 2053
                 },
                 {
                     "Class": "Potion",
                     "Id": "Diamonds",
                     "MinTier": 6,
-                    "MaxUnitPrice": 225
+                    "MaxUnitPrice": 490
                 },
                 {
                     "Class": "Potion",
                     "Id": "Treasure Hunter",
                     "MinTier": 6,
-                    "MaxUnitPrice": 214
+                    "MaxUnitPrice": 308
                 },
                 {
                     "Class": "Potion",
                     "Id": "Lucky",
                     "MinTier": 6,
-                    "MaxUnitPrice": 289
+                    "MaxUnitPrice": 377
                 },
                 {
                     "Class": "Potion",
                     "Id": "Damage",
                     "MinTier": 6,
-                    "MaxUnitPrice": 507
+                    "MaxUnitPrice": 299
                 },
                 {
                     "Class": "Potion",
                     "Id": "Coins",
                     "MinTier": 6,
-                    "MaxUnitPrice": 253
+                    "MaxUnitPrice": 188
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Lucky Eggs",
                     "MinTier": 6,
-                    "MaxUnitPrice": 4600
+                    "MaxUnitPrice": 5685
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Treasure Hunter",
                     "MinTier": 6,
-                    "MaxUnitPrice": 78
+                    "MaxUnitPrice": 80
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Diamonds",
                     "MinTier": 6,
-                    "MaxUnitPrice": 724
+                    "MaxUnitPrice": 753
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Criticals",
                     "MinTier": 6,
-                    "MaxUnitPrice": 342
+                    "MaxUnitPrice": 293
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Coins",
                     "MinTier": 6,
-                    "MaxUnitPrice": 672
+                    "MaxUnitPrice": 635
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Tap Power",
                     "MinTier": 6,
-                    "MaxUnitPrice": 401
+                    "MaxUnitPrice": 305
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Strong Pets",
                     "MinTier": 6,
-                    "MaxUnitPrice": 175
+                    "MaxUnitPrice": 200
                 },
                 {
                     "Class": "Potion",
                     "Id": "Diamonds",
                     "MinTier": 5,
-                    "MaxUnitPrice": 187
+                    "MaxUnitPrice": 200
                 },
                 {
                     "Class": "Potion",
                     "Id": "Lucky",
                     "MinTier": 5,
-                    "MaxUnitPrice": 134
+                    "MaxUnitPrice": 147
                 },
                 {
                     "Class": "Potion",
                     "Id": "Coins",
                     "MinTier": 5,
-                    "MaxUnitPrice": 111
+                    "MaxUnitPrice": 164
                 },
                 {
                     "Class": "Potion",
                     "Id": "Damage",
                     "MinTier": 5,
-                    "MaxUnitPrice": 86
+                    "MaxUnitPrice": 146
                 },
                 {
                     "Class": "Potion",
                     "Id": "Treasure Hunter",
                     "MinTier": 5,
-                    "MaxUnitPrice": 53
+                    "MaxUnitPrice": 106
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Tap Power",
                     "MinTier": 5,
-                    "MaxUnitPrice": 95
+                    "MaxUnitPrice": 90
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Walkspeed",
                     "MinTier": 5,
-                    "MaxUnitPrice": 15
+                    "MaxUnitPrice": 17
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Strong Pets",
                     "MinTier": 5,
-                    "MaxUnitPrice": 42
+                    "MaxUnitPrice": 64
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Criticals",
                     "MinTier": 5,
-                    "MaxUnitPrice": 44
+                    "MaxUnitPrice": 49
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Treasure Hunter",
                     "MinTier": 5,
-                    "MaxUnitPrice": 51
+                    "MaxUnitPrice": 49
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Lucky Eggs",
                     "MinTier": 5,
-                    "MaxUnitPrice": 124
+                    "MaxUnitPrice": 166
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Coins",
                     "MinTier": 5,
-                    "MaxUnitPrice": 132
+                    "MaxUnitPrice": 214
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Diamonds",
                     "MinTier": 5,
-                    "MaxUnitPrice": 80
+                    "MaxUnitPrice": 88
                 },
                 {
                     "Class": "Potion",
                     "Id": "Huge",
                     "MinTier": 1,
-                    "MaxUnitPrice": 106636
+                    "MaxUnitPrice": 88609
                 },
                 {
                     "Class": "Potion",
                     "Id": "The Cocktail",
                     "MinTier": 1,
-                    "MaxUnitPrice": 35161
+                    "MaxUnitPrice": 25471
                 },
                 {
                     "Class": "XPPotion",
                     "Id": "Huge",
-                    "MaxUnitPrice": 145727
+                    "MaxUnitPrice": 134489
                 },
                 {
                     "Class": "XPPotion",
                     "Id": "Ultimate",
-                    "MaxUnitPrice": 124319
+                    "MaxUnitPrice": 115099
                 },
                 {
                     "Class": "XPPotion",
                     "Id": "Titanic",
-                    "MaxUnitPrice": 129006
+                    "MaxUnitPrice": 129992
                 },
                 {
                     "Class": "XPPotion",
                     "Id": "Mastery",
-                    "MaxUnitPrice": 442720
+                    "MaxUnitPrice": 480063
                 },
                 {
                     "Class": "Charm",
                     "Id": "XP",
-                    "MaxUnitPrice": 3883
+                    "MaxUnitPrice": 3902
                 },
                 {
                     "Class": "Charm",
                     "Id": "Royalty",
-                    "MaxUnitPrice": 1202411
+                    "MaxUnitPrice": 1227108
                 },
                 {
                     "Class": "Charm",
                     "Id": "Overload",
-                    "MaxUnitPrice": 1484163
+                    "MaxUnitPrice": 1434508
                 },
                 {
                     "Class": "Charm",
                     "Id": "Glittering",
-                    "MaxUnitPrice": 4138
+                    "MaxUnitPrice": 2792
                 },
                 {
                     "Class": "Misc",
                     "Id": "Nightmare Fuel",
-                    "MaxUnitPrice": 668304
+                    "MaxUnitPrice": 460326
                 },
                 {
                     "Class": "Misc",
                     "Id": "Rare Glitch Core",
-                    "MaxUnitPrice": 4195
+                    "MaxUnitPrice": 4597
                 },
                 {
                     "Class": "Misc",
                     "Id": "Legendary Glitch Core",
-                    "MaxUnitPrice": 90162
+                    "MaxUnitPrice": 89867
                 },
                 {
                     "Class": "Misc",
                     "Id": "Epic Glitch Core",
-                    "MaxUnitPrice": 11528
+                    "MaxUnitPrice": 10372
                 },
                 {
                     "Class": "Misc",
                     "Id": "Treasure Hideout Key Lower Half",
-                    "MaxUnitPrice": 89
+                    "MaxUnitPrice": 91
                 },
                 {
                     "Class": "Misc",
                     "Id": "Treasure Hideout Key",
-                    "MaxUnitPrice": 2429
+                    "MaxUnitPrice": 2418
                 },
                 {
                     "Class": "Misc",
                     "Id": "Basic Item Jar",
-                    "MaxUnitPrice": 5108
+                    "MaxUnitPrice": 5141
                 },
                 {
                     "Class": "Misc",
                     "Id": "Exclusive Daycare Slot Voucher",
-                    "MaxUnitPrice": 3458930
+                    "MaxUnitPrice": 3769015
                 },
                 {
                     "Class": "Misc",
                     "Id": "Arcade Token",
-                    "MaxUnitPrice": 9314
+                    "MaxUnitPrice": 9834
                 },
                 {
                     "Class": "Misc",
                     "Id": "Large Enchant Bundle",
-                    "MaxUnitPrice": 205
+                    "MaxUnitPrice": 236
                 },
                 {
                     "Class": "Misc",
                     "Id": "Fruit Bundle",
-                    "MaxUnitPrice": 89
+                    "MaxUnitPrice": 109
                 },
                 {
                     "Class": "Misc",
                     "Id": "Charm Chisel",
-                    "MaxUnitPrice": 9590
+                    "MaxUnitPrice": 8893
                 },
                 {
                     "Class": "Misc",
                     "Id": "Tech Key Lower Half",
-                    "MaxUnitPrice": 184
+                    "MaxUnitPrice": 186
                 },
                 {
                     "Class": "Misc",
                     "Id": "Tech Key",
-                    "MaxUnitPrice": 14849
+                    "MaxUnitPrice": 14395
                 },
                 {
                     "Class": "Misc",
                     "Id": "Diamond Shovel",
-                    "MaxUnitPrice": 1789817
+                    "MaxUnitPrice": 1683611
                 },
                 {
                     "Class": "Misc",
                     "Id": "Magic Shard",
-                    "MaxUnitPrice": 3854
+                    "MaxUnitPrice": 3784
                 },
                 {
                     "Class": "Misc",
                     "Id": "Treasure Hideout Key Upper Half",
-                    "MaxUnitPrice": 2990
+                    "MaxUnitPrice": 2430
                 },
                 {
                     "Class": "Misc",
                     "Id": "Secret Key Upper Half",
-                    "MaxUnitPrice": 966
+                    "MaxUnitPrice": 1063
                 },
                 {
                     "Class": "Misc",
                     "Id": "Charm Stone",
-                    "MaxUnitPrice": 4472
+                    "MaxUnitPrice": 4691
                 },
                 {
                     "Class": "Misc",
                     "Id": "Golden Fishing Rod",
-                    "MaxUnitPrice": 17122
+                    "MaxUnitPrice": 15570
                 },
                 {
                     "Class": "Misc",
                     "Id": "Firework Cannon",
-                    "MaxUnitPrice": 3436
-                },
-                {
-                    "Class": "Misc",
-                    "Id": "Squeaky Toy",
-                    "MaxUnitPrice": 153
+                    "MaxUnitPrice": 2035
                 },
                 {
                     "Class": "Misc",
                     "Id": "Hot Cocoa",
-                    "MaxUnitPrice": 283
+                    "MaxUnitPrice": 152
                 },
                 {
                     "Class": "Misc",
                     "Id": "Green Christmas Ornament",
-                    "MaxUnitPrice": 4552
+                    "MaxUnitPrice": 4310
                 },
                 {
                     "Class": "Misc",
                     "Id": "Old Boot",
-                    "MaxUnitPrice": 927
+                    "MaxUnitPrice": 161
                 },
                 {
                     "Class": "Misc",
                     "Id": "Blue Christmas Ornament",
-                    "MaxUnitPrice": 6045
+                    "MaxUnitPrice": 6214
                 },
                 {
                     "Class": "Misc",
                     "Id": "Basic Glitch Core",
-                    "MaxUnitPrice": 712
+                    "MaxUnitPrice": 909
                 },
                 {
                     "Class": "Misc",
                     "Id": "Diamond Fishing Rod",
-                    "MaxUnitPrice": 5125901
+                    "MaxUnitPrice": 3688338
                 },
                 {
                     "Class": "Misc",
                     "Id": "Gold Christmas Ornament",
-                    "MaxUnitPrice": 17370
+                    "MaxUnitPrice": 16549
                 },
                 {
                     "Class": "Misc",
                     "Id": "Glitched Drive",
-                    "MaxUnitPrice": 65754
+                    "MaxUnitPrice": 42848
                 },
                 {
                     "Class": "Misc",
                     "Id": "Crystal Key",
-                    "MaxUnitPrice": 4386
-                },
-                {
-                    "Class": "Misc",
-                    "Id": "Fireworks",
-                    "MaxUnitPrice": 62
+                    "MaxUnitPrice": 4450
                 },
                 {
                     "Class": "Misc",
                     "Id": "Rainbow Mini Chest",
-                    "MaxUnitPrice": 176432
+                    "MaxUnitPrice": 164974
                 },
                 {
                     "Class": "Misc",
                     "Id": "Enchant Bundle",
-                    "MaxUnitPrice": 174
+                    "MaxUnitPrice": 190
                 },
                 {
                     "Class": "Misc",
                     "Id": "Fortune Flag",
-                    "MaxUnitPrice": 157
+                    "MaxUnitPrice": 141
                 },
                 {
                     "Class": "Misc",
                     "Id": "Breakable Sprinkler",
-                    "MaxUnitPrice": 306
+                    "MaxUnitPrice": 252
                 },
                 {
                     "Class": "Misc",
                     "Id": "Insta Plant Capsule",
-                    "MaxUnitPrice": 1890
+                    "MaxUnitPrice": 1930
                 },
                 {
                     "Class": "Misc",
                     "Id": "Mini Pinata",
-                    "MaxUnitPrice": 10519
+                    "MaxUnitPrice": 9684
                 },
                 {
                     "Class": "Misc",
                     "Id": "Booth Slot Voucher",
-                    "MaxUnitPrice": 20110
+                    "MaxUnitPrice": 20432
                 },
                 {
                     "Class": "Misc",
                     "Id": "Large Gift Bag",
-                    "MaxUnitPrice": 2206
+                    "MaxUnitPrice": 2364
                 },
                 {
                     "Class": "Misc",
                     "Id": "Golden Shovel",
-                    "MaxUnitPrice": 17060
+                    "MaxUnitPrice": 18552
                 },
                 {
                     "Class": "Misc",
                     "Id": "TNT Crate",
-                    "MaxUnitPrice": 421
+                    "MaxUnitPrice": 388
                 },
                 {
                     "Class": "Misc",
                     "Id": "Crystal Key Lower Half",
-                    "MaxUnitPrice": 128
+                    "MaxUnitPrice": 150
                 },
                 {
                     "Class": "Misc",
                     "Id": "Daycare Slot Voucher",
-                    "MaxUnitPrice": 1853
+                    "MaxUnitPrice": 1753
                 },
                 {
                     "Class": "Misc",
                     "Id": "Red Christmas Ornament",
-                    "MaxUnitPrice": 4169
+                    "MaxUnitPrice": 3972
                 },
                 {
                     "Class": "Misc",
                     "Id": "Clan Voucher",
-                    "MaxUnitPrice": 3213071
+                    "MaxUnitPrice": 3978333
                 },
                 {
                     "Class": "Misc",
                     "Id": "Gift Bag",
-                    "MaxUnitPrice": 662
+                    "MaxUnitPrice": 656
                 },
                 {
                     "Class": "Misc",
                     "Id": "Spinny Wheel Ticket",
-                    "MaxUnitPrice": 1325
+                    "MaxUnitPrice": 1508
                 },
                 {
                     "Class": "Misc",
                     "Id": "Tech Key Upper Half",
-                    "MaxUnitPrice": 2474
+                    "MaxUnitPrice": 2556
                 },
                 {
                     "Class": "Misc",
                     "Id": "Comet",
-                    "MaxUnitPrice": 132
+                    "MaxUnitPrice": 126
                 },
                 {
                     "Class": "Misc",
                     "Id": "Crystal Key Upper Half",
-                    "MaxUnitPrice": 2541
+                    "MaxUnitPrice": 1437
                 },
                 {
                     "Class": "Misc",
                     "Id": "Tech Spinny Wheel Ticket",
-                    "MaxUnitPrice": 1867
+                    "MaxUnitPrice": 1891
                 },
                 {
                     "Class": "Misc",
@@ -880,107 +870,112 @@
                 {
                     "Class": "Misc",
                     "Id": "Toy Bundle",
-                    "MaxUnitPrice": 70
+                    "MaxUnitPrice": 89
+                },
+                {
+                    "Class": "Misc",
+                    "Id": "Shiny Flag",
+                    "MaxUnitPrice": 50
                 },
                 {
                     "Class": "Misc",
                     "Id": "Charm Hammer",
-                    "MaxUnitPrice": 928
+                    "MaxUnitPrice": 871
                 },
                 {
                     "Class": "Misc",
                     "Id": "Seed Bag",
-                    "MaxUnitPrice": 1335
+                    "MaxUnitPrice": 1317
                 },
                 {
                     "Class": "Misc",
                     "Id": "Rainbow Flag",
-                    "MaxUnitPrice": 100
+                    "MaxUnitPrice": 119
                 },
                 {
                     "Class": "Misc",
                     "Id": "Golden Watering Can",
-                    "MaxUnitPrice": 11997
+                    "MaxUnitPrice": 11298
                 },
                 {
                     "Class": "Misc",
                     "Id": "Exotic Treasure Flag",
-                    "MaxUnitPrice": 61529
+                    "MaxUnitPrice": 52811
                 },
                 {
                     "Class": "Misc",
                     "Id": "Snowball Launcher",
-                    "MaxUnitPrice": 73
+                    "MaxUnitPrice": 370
                 },
                 {
                     "Class": "Misc",
                     "Id": "Secret Key Lower Half",
-                    "MaxUnitPrice": 185
+                    "MaxUnitPrice": 195
                 },
                 {
                     "Class": "Misc",
                     "Id": "Christmas Cookie",
-                    "MaxUnitPrice": 80
+                    "MaxUnitPrice": 70
                 },
                 {
                     "Class": "Misc",
                     "Id": "Silver Christmas Ornament",
-                    "MaxUnitPrice": 9250
+                    "MaxUnitPrice": 8267
                 },
                 {
                     "Class": "Misc",
                     "Id": "Bucket",
-                    "MaxUnitPrice": 3638
+                    "MaxUnitPrice": 2818
                 },
                 {
                     "Class": "Misc",
                     "Id": "Pink Christmas Ornament",
-                    "MaxUnitPrice": 1925
+                    "MaxUnitPrice": 1965
                 },
                 {
                     "Class": "Misc",
                     "Id": "Large Potion Bundle",
-                    "MaxUnitPrice": 208
+                    "MaxUnitPrice": 210
                 },
                 {
                     "Class": "Misc",
                     "Id": "Bucket O' Magic",
-                    "MaxUnitPrice": 5465
+                    "MaxUnitPrice": 5159
                 },
                 {
                     "Class": "Misc",
                     "Id": "Mini Lucky Block",
-                    "MaxUnitPrice": 418
+                    "MaxUnitPrice": 505
                 },
                 {
                     "Class": "Misc",
                     "Id": "Mystery Ticket",
-                    "MaxUnitPrice": 9391103
+                    "MaxUnitPrice": 7587410
                 },
                 {
                     "Class": "Misc",
                     "Id": "Secret Key",
-                    "MaxUnitPrice": 10790
+                    "MaxUnitPrice": 11166
                 },
                 {
                     "Class": "Misc",
                     "Id": "Party Box",
-                    "MaxUnitPrice": 176
+                    "MaxUnitPrice": 177
                 },
                 {
                     "Class": "Misc",
                     "Id": "Mini Chest",
-                    "MaxUnitPrice": 5855
+                    "MaxUnitPrice": 5509
                 },
                 {
                     "Class": "Misc",
                     "Id": "Flag Bundle",
-                    "MaxUnitPrice": 72
+                    "MaxUnitPrice": 125
                 },
                 {
                     "Class": "Misc",
                     "Id": "Mythical Glitch Core",
-                    "MaxUnitPrice": 497244
+                    "MaxUnitPrice": 559145
                 },
                 {
                     "Class": "Misc",
@@ -990,37 +985,37 @@
                 {
                     "Class": "Egg",
                     "Id": "Exclusive Egg 24",
-                    "MaxUnitPrice": 7500087
+                    "MaxUnitPrice": 5891206
                 },
                 {
                     "Class": "Egg",
                     "Id": "Exclusive Egg 23",
-                    "MaxUnitPrice": 7411541
+                    "MaxUnitPrice": 6087783
                 },
                 {
                     "Class": "Egg",
                     "Id": "Huge Machine Egg 3",
-                    "MaxUnitPrice": 34261489
+                    "MaxUnitPrice": 31087675
                 },
                 {
                     "Class": "Egg",
                     "Id": "Active Huge Egg",
-                    "MaxUnitPrice": 46038840
+                    "MaxUnitPrice": 42859151
                 },
                 {
                     "Class": "Egg",
                     "Id": "Exclusive Egg 22",
-                    "MaxUnitPrice": 8381891
+                    "MaxUnitPrice": 8167615
                 },
                 {
                     "Class": "Egg",
                     "Id": "Exclusive Egg 21",
-                    "MaxUnitPrice": 9111702
+                    "MaxUnitPrice": 9868246
                 },
                 {
                     "Class": "Egg",
                     "Id": "Exclusive Egg 20",
-                    "MaxUnitPrice": 7815181
+                    "MaxUnitPrice": 7525364
                 },
                 {
                     "Class": "Egg",
@@ -1030,137 +1025,137 @@
                 {
                     "Class": "Egg",
                     "Id": "Series 1 Basic Gift",
-                    "MaxUnitPrice": 5609474
+                    "MaxUnitPrice": 5527332
                 },
                 {
                     "Class": "Egg",
                     "Id": "Exclusive Egg 11",
-                    "MaxUnitPrice": 10644260
+                    "MaxUnitPrice": 10868077
                 },
                 {
                     "Class": "Egg",
                     "Id": "Exclusive Egg 9",
-                    "MaxUnitPrice": 21588207
+                    "MaxUnitPrice": 27527059
                 },
                 {
                     "Class": "Egg",
                     "Id": "Series 1 Epic Gift",
-                    "MaxUnitPrice": 9677858
+                    "MaxUnitPrice": 9647401
                 },
                 {
                     "Class": "Egg",
                     "Id": "Event Egg 1",
-                    "MaxUnitPrice": 4291132
+                    "MaxUnitPrice": 4138414
                 },
                 {
                     "Class": "Egg",
                     "Id": "Exclusive Egg 14",
-                    "MaxUnitPrice": 22615477
+                    "MaxUnitPrice": 22732062
                 },
                 {
                     "Class": "Egg",
                     "Id": "Huge Machine Egg 2",
-                    "MaxUnitPrice": 41353343
+                    "MaxUnitPrice": 41565992
                 },
                 {
                     "Class": "Egg",
                     "Id": "Exclusive Egg 5",
-                    "MaxUnitPrice": 26039844
+                    "MaxUnitPrice": 26492819
                 },
                 {
                     "Class": "Egg",
                     "Id": "Exclusive Egg 15",
-                    "MaxUnitPrice": 15612504
+                    "MaxUnitPrice": 15764126
                 },
                 {
                     "Class": "Egg",
                     "Id": "Exclusive Egg 13",
-                    "MaxUnitPrice": 9200878
+                    "MaxUnitPrice": 9564544
                 },
                 {
                     "Class": "Egg",
                     "Id": "Exclusive Egg 10",
-                    "MaxUnitPrice": 14359595
+                    "MaxUnitPrice": 13327527
                 },
                 {
                     "Class": "Egg",
                     "Id": "Exclusive Egg 12",
-                    "MaxUnitPrice": 13949355
+                    "MaxUnitPrice": 13800666
                 },
                 {
                     "Class": "Egg",
                     "Id": "Series 1 Mythical Gift",
-                    "MaxUnitPrice": 63958820
+                    "MaxUnitPrice": 64075340
                 },
                 {
                     "Class": "Egg",
                     "Id": "Series 2 Epic Gift",
-                    "MaxUnitPrice": 9515990
+                    "MaxUnitPrice": 8389736
                 },
                 {
                     "Class": "Egg",
                     "Id": "Series 2 Basic Gift",
-                    "MaxUnitPrice": 5108745
+                    "MaxUnitPrice": 4679712
                 },
                 {
                     "Class": "Egg",
                     "Id": "Exclusive Egg 16",
-                    "MaxUnitPrice": 11226959
+                    "MaxUnitPrice": 11089420
                 },
                 {
                     "Class": "Egg",
                     "Id": "Series 2 Legendary Gift",
-                    "MaxUnitPrice": 15955970
+                    "MaxUnitPrice": 15144549
                 },
                 {
                     "Class": "Egg",
                     "Id": "Exclusive Egg 2",
-                    "MaxUnitPrice": 55555960
+                    "MaxUnitPrice": 56407418
                 },
                 {
                     "Class": "Egg",
                     "Id": "Series 2 Rare Gift",
-                    "MaxUnitPrice": 6091364
+                    "MaxUnitPrice": 5837893
                 },
                 {
                     "Class": "Egg",
                     "Id": "Series 1 Rare Gift",
-                    "MaxUnitPrice": 5258238
+                    "MaxUnitPrice": 5161172
                 },
                 {
                     "Class": "Egg",
                     "Id": "Exclusive Egg 17",
-                    "MaxUnitPrice": 9716273
+                    "MaxUnitPrice": 9072336
                 },
                 {
                     "Class": "Egg",
                     "Id": "Exclusive Egg 6",
-                    "MaxUnitPrice": 28820007
+                    "MaxUnitPrice": 27881318
                 },
                 {
                     "Class": "Egg",
                     "Id": "Exclusive Egg 7",
-                    "MaxUnitPrice": 22197999
+                    "MaxUnitPrice": 24247462
                 },
                 {
                     "Class": "Egg",
                     "Id": "Exclusive Egg 8",
-                    "MaxUnitPrice": 14610989
+                    "MaxUnitPrice": 14690390
                 },
                 {
                     "Class": "Egg",
                     "Id": "Exclusive Egg 19",
-                    "MaxUnitPrice": 9218745
+                    "MaxUnitPrice": 8544971
                 },
                 {
                     "Class": "Egg",
                     "Id": "Series 1 Legendary Gift",
-                    "MaxUnitPrice": 18258021
+                    "MaxUnitPrice": 17972035
                 },
                 {
                     "Class": "Egg",
                     "Id": "Series 2 Mythical Gift",
-                    "MaxUnitPrice": 55826423
+                    "MaxUnitPrice": 56250055
                 },
                 {
                     "Class": "Egg",
@@ -1170,342 +1165,347 @@
                 {
                     "Class": "Egg",
                     "Id": "Exclusive Egg 25",
-                    "MaxUnitPrice": 7459069
+                    "MaxUnitPrice": 5570772
                 },
                 {
                     "Class": "Egg",
                     "Id": "Exclusive Egg 18",
-                    "MaxUnitPrice": 7757634
+                    "MaxUnitPrice": 6179487
                 },
                 {
                     "Class": "Egg",
                     "Id": "Huge Machine Egg 1",
-                    "MaxUnitPrice": 77288525
+                    "MaxUnitPrice": 113825657
                 },
                 {
                     "Class": "Egg",
                     "Id": "Exclusive Egg 1",
-                    "MaxUnitPrice": 65708582
+                    "MaxUnitPrice": 77283006
                 },
                 {
                     "Class": "Booth",
                     "Id": "Alien",
-                    "MaxUnitPrice": 4338766
+                    "MaxUnitPrice": 4079707
                 },
                 {
                     "Class": "Booth",
                     "Id": "Merchant",
-                    "MaxUnitPrice": 38097
+                    "MaxUnitPrice": 42307
                 },
                 {
                     "Class": "Booth",
                     "Id": "Cat",
-                    "MaxUnitPrice": 19777
+                    "MaxUnitPrice": 19615
                 },
                 {
                     "Class": "Booth",
                     "Id": "Dragon",
-                    "MaxUnitPrice": 9490
+                    "MaxUnitPrice": 9986
                 },
                 {
                     "Class": "Booth",
                     "Id": "Fishing",
-                    "MaxUnitPrice": 24368
+                    "MaxUnitPrice": 35381
                 },
                 {
                     "Class": "Booth",
                     "Id": "Unicorn",
-                    "MaxUnitPrice": 137418
+                    "MaxUnitPrice": 145742
                 },
                 {
                     "Class": "Booth",
                     "Id": "Panda",
-                    "MaxUnitPrice": 388919
+                    "MaxUnitPrice": 387535
                 },
                 {
                     "Class": "Booth",
                     "Id": "Rainbow",
-                    "MaxUnitPrice": 20233
+                    "MaxUnitPrice": 28058
                 },
                 {
                     "Class": "Booth",
                     "Id": "Gold",
-                    "MaxUnitPrice": 10844
+                    "MaxUnitPrice": 11191
                 },
                 {
                     "Class": "Booth",
                     "Id": "Neon Twilight",
-                    "MaxUnitPrice": 1977987
+                    "MaxUnitPrice": 1972159
                 },
                 {
                     "Class": "Booth",
                     "Id": "Pixel",
-                    "MaxUnitPrice": 1909093
+                    "MaxUnitPrice": 2026096
                 },
                 {
                     "Class": "Booth",
                     "Id": "Glitched",
-                    "MaxUnitPrice": 3674384
+                    "MaxUnitPrice": 3491322
                 },
                 {
                     "Class": "Booth",
                     "Id": "Lightning",
-                    "MaxUnitPrice": 51049
+                    "MaxUnitPrice": 44706
                 },
                 {
                     "Class": "Booth",
                     "Id": "Hippomelon",
-                    "MaxUnitPrice": 19306
+                    "MaxUnitPrice": 18808
                 },
                 {
                     "Class": "Booth",
                     "Id": "Present",
-                    "MaxUnitPrice": 9138102
+                    "MaxUnitPrice": 9072303
                 },
                 {
                     "Class": "Booth",
                     "Id": "Parrot",
-                    "MaxUnitPrice": 280861
+                    "MaxUnitPrice": 280250
                 },
                 {
                     "Class": "Booth",
                     "Id": "Balloon",
-                    "MaxUnitPrice": 41781
+                    "MaxUnitPrice": 45031
                 },
                 {
                     "Class": "Booth",
                     "Id": "Axolotl",
-                    "MaxUnitPrice": 213356
+                    "MaxUnitPrice": 193036
                 },
                 {
                     "Class": "Booth",
                     "Id": "Christmas",
-                    "MaxUnitPrice": 22408
+                    "MaxUnitPrice": 19063
                 },
                 {
                     "Class": "Booth",
                     "Id": "Cupcake",
-                    "MaxUnitPrice": 5714999
+                    "MaxUnitPrice": 5453209
                 },
                 {
                     "Class": "Booth",
                     "Id": "Egg",
-                    "MaxUnitPrice": 8518
+                    "MaxUnitPrice": 8234
                 },
                 {
                     "Class": "Booth",
                     "Id": "Comet",
-                    "MaxUnitPrice": 2527225
+                    "MaxUnitPrice": 2518674
                 },
                 {
                     "Class": "Booth",
                     "Id": "M10",
-                    "MaxUnitPrice": 5059065
+                    "MaxUnitPrice": 4927530
                 },
                 {
                     "Class": "Booth",
                     "Id": "Lucky Block",
-                    "MaxUnitPrice": 72957
+                    "MaxUnitPrice": 65169
                 },
                 {
                     "Class": "Booth",
                     "Id": "Monkey",
-                    "MaxUnitPrice": 125833
+                    "MaxUnitPrice": 166348
                 },
                 {
                     "Class": "Booth",
                     "Id": "Empyrean",
-                    "MaxUnitPrice": 5404259
+                    "MaxUnitPrice": 5425775
                 },
                 {
                     "Class": "Booth",
                     "Id": "Corgi",
-                    "MaxUnitPrice": 207020
+                    "MaxUnitPrice": 202725
                 },
                 {
                     "Class": "Booth",
                     "Id": "Fruit",
-                    "MaxUnitPrice": 20178
+                    "MaxUnitPrice": 20166
+                },
+                {
+                    "Class": "Booth",
+                    "Id": "Night Terror",
+                    "MaxUnitPrice": 1417551
                 },
                 {
                     "Class": "Booth",
                     "Id": "TNT",
-                    "MaxUnitPrice": 91611
+                    "MaxUnitPrice": 92430
                 },
                 {
                     "Class": "Booth",
                     "Id": "Throne",
-                    "MaxUnitPrice": 6398067
+                    "MaxUnitPrice": 7341934
                 },
                 {
                     "Class": "Booth",
                     "Id": "Money",
-                    "MaxUnitPrice": 1666027
+                    "MaxUnitPrice": 1715264
                 },
                 {
                     "Class": "Booth",
                     "Id": "Galaxy",
-                    "MaxUnitPrice": 7546622
+                    "MaxUnitPrice": 7284487
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Lightning Orb",
-                    "MaxUnitPrice": 3400319
+                    "MaxUnitPrice": 3380387
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Super Magnet",
-                    "MaxUnitPrice": 36718446
+                    "MaxUnitPrice": 41052272
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Boss Chest Mimic",
-                    "MaxUnitPrice": 51351065
+                    "MaxUnitPrice": 45910083
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Magic Orb",
-                    "MaxUnitPrice": 16343
+                    "MaxUnitPrice": 18036
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Large Taps",
-                    "MaxUnitPrice": 172
+                    "MaxUnitPrice": 233
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Diamond Chest Mimic",
-                    "MaxUnitPrice": 30368623
+                    "MaxUnitPrice": 29848303
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Party Time",
-                    "MaxUnitPrice": 1782493
+                    "MaxUnitPrice": 1550951
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Exotic Pet",
-                    "MaxUnitPrice": 1084
+                    "MaxUnitPrice": 1161
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Starfall",
-                    "MaxUnitPrice": 185549
+                    "MaxUnitPrice": 202785
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Fireworks",
-                    "MaxUnitPrice": 18933
+                    "MaxUnitPrice": 17195
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Lightning",
-                    "MaxUnitPrice": 276
+                    "MaxUnitPrice": 240
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Midas Touch",
-                    "MaxUnitPrice": 248
+                    "MaxUnitPrice": 289
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Super Shiny Hunter",
-                    "MaxUnitPrice": 65015650
+                    "MaxUnitPrice": 65147696
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Huge Hunter",
-                    "MaxUnitPrice": 2697768
+                    "MaxUnitPrice": 3660019
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Fruity",
-                    "MaxUnitPrice": 32718
+                    "MaxUnitPrice": 27972
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Lucky Block",
-                    "MaxUnitPrice": 7214711
+                    "MaxUnitPrice": 5162000
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Fortune",
-                    "MaxUnitPrice": 1181
+                    "MaxUnitPrice": 1371
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Explosive",
-                    "MaxUnitPrice": 287
+                    "MaxUnitPrice": 343
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Massive Comet",
-                    "MaxUnitPrice": 11327762
+                    "MaxUnitPrice": 10832323
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Chest Mimic",
-                    "MaxUnitPrice": 386552044
+                    "MaxUnitPrice": 340420068
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Boss Lucky Block",
-                    "MaxUnitPrice": 51574763
+                    "MaxUnitPrice": 48661744
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Shiny Hunter",
-                    "MaxUnitPrice": 325423
+                    "MaxUnitPrice": 369887
                 },
                 {
                     "Class": "Enchant",
                     "Id": "Super Lightning",
-                    "MaxUnitPrice": 15614
+                    "MaxUnitPrice": 13900
                 },
                 {
                     "Class": "Ultimate",
                     "Id": "Lightning Storm",
-                    "MaxUnitPrice": 585269
+                    "MaxUnitPrice": 617275
                 },
                 {
                     "Class": "Ultimate",
                     "Id": "Chest Spell",
-                    "MaxUnitPrice": 68188041
+                    "MaxUnitPrice": 59950899
                 },
                 {
                     "Class": "Ultimate",
                     "Id": "Hidden Treasure",
-                    "MaxUnitPrice": 131447003
+                    "MaxUnitPrice": 126251004
                 },
                 {
                     "Class": "Ultimate",
                     "Id": "Tornado",
-                    "MaxUnitPrice": 1128188
+                    "MaxUnitPrice": 1132081
                 },
                 {
                     "Class": "Ultimate",
                     "Id": "Nightmare",
-                    "MaxUnitPrice": 52203204
+                    "MaxUnitPrice": 13879715
                 },
                 {
                     "Class": "Ultimate",
                     "Id": "TNT Shower",
-                    "MaxUnitPrice": 172306
+                    "MaxUnitPrice": 170889
                 },
                 {
                     "Class": "Ultimate",
                     "Id": "Tsunami",
-                    "MaxUnitPrice": 4323174
+                    "MaxUnitPrice": 3833889
                 },
                 {
                     "Class": "Ultimate",
                     "Id": "Pet Surge",
-                    "MaxUnitPrice": 5693
+                    "MaxUnitPrice": 5251
                 },
                 {
                     "Class": "Ultimate",
                     "Id": "Black Hole",
-                    "MaxUnitPrice": 52195737
+                    "MaxUnitPrice": 50701177
                 },
                 {
                     "Class": "Pet",
