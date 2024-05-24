@@ -1545,16 +1545,6 @@
                     "RapBuy": true
                 },
                 {
-                    "Class": "Enchant",
-                    "MaxUnitPrice": 5000,
-                    "RapBuy": true
-                },
-                {
-                    "Class": "Potion",
-                    "MaxUnitPrice": 50,
-                    "RapBuy": true
-                },
-                {
                     "Class": "Hoverboard",
                     "MaxUnitPrice": 1000000,
                     "RapBuy": true
