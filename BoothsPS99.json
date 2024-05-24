@@ -1546,30 +1546,6 @@
                 },
                 {
                     "Class": "Enchant",
-                    "MaxUnitPrice": 27,
-                    "MinTier": 4,
-                    "RapBuy": true
-                },
-                {
-                    "Class": "Enchant",
-                    "MaxUnitPrice": 15,
-                    "MinTier": 3,
-                    "RapBuy": true
-                },
-                {
-                    "Class": "Enchant",
-                    "MaxUnitPrice": 15,
-                    "MinTier": 2,
-                    "RapBuy": true
-                },                
-                {
-                    "Class": "Enchant",
-                    "MaxUnitPrice": 15,
-                    "MinTier": 1,
-                    "RapBuy": true
-                },
-                {
-                    "Class": "Enchant",
                     "MaxUnitPrice": 5000,
                     "RapBuy": true
                 },
