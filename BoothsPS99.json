@@ -163,6 +163,20 @@
                 {
                     "Class": "Pet",
                     "Type": "Exclusive",
+                    "IsGolden": true,
+                    "MaxUnitPrice": 750000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Pet",
+                    "Type": "Exclusive",
+                    "IsRainbow": true,
+                    "MaxUnitPrice": 1000000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Pet",
+                    "Type": "Exclusive",
                     "MaxUnitPrice": 500000,
                     "RapBuy": true
                 },
