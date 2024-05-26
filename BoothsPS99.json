@@ -162,6 +162,12 @@
                 },
                 {
                     "Class": "Pet",
+                    "Type": "Exclusive",
+                    "MaxUnitPrice": 500000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Pet",
                     "Rarity": [
                         "Celestial",
                         "Superior",
