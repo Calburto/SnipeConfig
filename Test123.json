@@ -121,7 +121,8 @@
                 "Old Boot",
                 "Snowball",
                 "Enchant Essence",
-                "Magnet"
+                "Magnet",
+                "Mini Chest Fortune"
             ],
             "SnipingList": [
                 {
@@ -728,6 +729,11 @@
         "Class": "Misc",
         "Id": "Crystal Key",
         "MaxUnitPrice": 5491
+    },
+    {
+        "Class": "Misc",
+        "Id": "Rainbow Mini Chest",
+        "MaxUnitPrice": 154113
     },
     {
         "Class": "Misc",
@@ -1383,11 +1389,6 @@
         "Class": "Enchant",
         "Id": "Nightmare Orb",
         "MaxUnitPrice": 8392228
-    },
-    {
-        "Class": "Enchant",
-        "Id": "Mini Chest Fortune",
-        "MaxUnitPrice": 149429980
     },
     {
         "Class": "Enchant",
