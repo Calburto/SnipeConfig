@@ -196,7 +196,7 @@
                     "MaxUnitPrice": 250,
                     "RapBuy": true
                 },
-                            {
+                                {
         "Class": "Potion",
         "Id": "Lucky",
         "MinTier": 10,
@@ -573,11 +573,6 @@
         "Class": "Charm",
         "Id": "Glittering",
         "MaxUnitPrice": 4576
-    },
-    {
-        "Class": "Misc",
-        "Id": "Seashell",
-        "MaxUnitPrice": 5545
     },
     {
         "Class": "Misc",
