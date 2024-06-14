@@ -1580,6 +1580,11 @@
         "MaxUnitPrice": 101162437
     },
                 {
+                    "Class": "Misc",
+                    "MaxUnitPrice": 50,
+                    "RapBuy": true
+                },
+                {
                     "Class": "Charm",
                     "MaxUnitPrice": 500,
                     "RapBuy": true
