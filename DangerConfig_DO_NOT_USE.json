@@ -144,6 +144,15 @@
                     "Type": "Exclusive",
                     "IsHuge": true,
                     "IsShiny": true,
+                    "IsRainbow": true,
+                    "MaxUnitPrice": 200000000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Pet",
+                    "Type": "Exclusive",
+                    "IsHuge": true,
+                    "IsShiny": true,
                     "MaxUnitPrice": 200000000,
                     "RapBuy": true
                 },
