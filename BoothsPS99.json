@@ -208,7 +208,8 @@
                     "MaxUnitPrice": 250,
                     "RapBuy": true
                 },
-                            {
+                            [
+    {
         "Class": "Potion",
         "Id": "Damage",
         "MinTier": 11,
@@ -661,27 +662,27 @@
     {
         "Class": "Misc",
         "Id": "Golden Paw Ticket",
-        "MaxUnitPrice": 1402536
+        "MaxUnitPrice": 14025
     },
     {
         "Class": "Misc",
         "Id": "Ultra Adoption Token Boost",
-        "MaxUnitPrice": 870815
+        "MaxUnitPrice": 87081
     },
     {
         "Class": "Misc",
         "Id": "Halloween Mask",
-        "MaxUnitPrice": 249
+        "MaxUnitPrice": 2
     },
     {
         "Class": "Misc",
         "Id": "Ultra Pet Cube",
-        "MaxUnitPrice": 7910
+        "MaxUnitPrice": 791
     },
     {
         "Class": "Misc",
         "Id": "Pet Cube",
-        "MaxUnitPrice": 53
+        "MaxUnitPrice": 5
     },
     {
         "Class": "Misc",
@@ -761,7 +762,7 @@
     {
         "Class": "Misc",
         "Id": "Basic Item Jar",
-        "MaxUnitPrice": 3207
+        "MaxUnitPrice": 32
     },
     {
         "Class": "Misc",
@@ -1061,7 +1062,7 @@
     {
         "Class": "Misc",
         "Id": "Adoption Token Boost",
-        "MaxUnitPrice": 40303
+        "MaxUnitPrice": 403
     },
     {
         "Class": "Misc",
@@ -1101,7 +1102,7 @@
     {
         "Class": "Misc",
         "Id": "Seed Bag",
-        "MaxUnitPrice": 1078
+        "MaxUnitPrice": 107
     },
     {
         "Class": "Misc",
@@ -1171,7 +1172,7 @@
     {
         "Class": "Misc",
         "Id": "Bucket O' Magic",
-        "MaxUnitPrice": 10277
+        "MaxUnitPrice": 1027
     },
     {
         "Class": "Misc",
@@ -2217,7 +2218,8 @@
         "Class": "Ultimate",
         "Id": "Black Hole",
         "MaxUnitPrice": 221247432
-    },
+    }
+],
                 {
                     "Class": "Charm",
                     "MaxUnitPrice": 500,
