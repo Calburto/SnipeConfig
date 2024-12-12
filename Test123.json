@@ -141,7 +141,7 @@
                     "Type": "Exclusive",
                     "IsHuge": true,
                     "IsRainbow": true,
-                    "MaxUnitPrice": 90000000,
+                    "MaxUnitPrice": 45000000,
                     "RapBuy": true
                 },
                 {
@@ -150,14 +150,6 @@
                     "IsHuge": true,
                     "IsShiny": true,
                     "IsRainbow": true,
-                    "MaxUnitPrice": 90000000,
-                    "RapBuy": true
-                },
-                {
-                    "Class": "Pet",
-                    "Type": "Exclusive",
-                    "IsHuge": true,
-                    "IsShiny": true,
                     "MaxUnitPrice": 75000000,
                     "RapBuy": true
                 },
@@ -165,15 +157,23 @@
                     "Class": "Pet",
                     "Type": "Exclusive",
                     "IsHuge": true,
-                    "IsGolden": true,
-                    "MaxUnitPrice": 35000000,
+                    "IsShiny": true,
+                    "MaxUnitPrice": 50000000,
                     "RapBuy": true
                 },
                 {
                     "Class": "Pet",
                     "Type": "Exclusive",
                     "IsHuge": true,
-                    "MaxUnitPrice": 30000000,
+                    "IsGolden": true,
+                    "MaxUnitPrice": 25000000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Pet",
+                    "Type": "Exclusive",
+                    "IsHuge": true,
+                    "MaxUnitPrice": 20000000,
                     "RapBuy": true
                 },
                 {
