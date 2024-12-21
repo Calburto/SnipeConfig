@@ -133,10 +133,6 @@
             "SnipingList": [
                 {
                     "Class": "Pet",
-                    "IsGargantuan": true,
-                    "MaxUnitPrice": 1500000001
-                },{
-                    "Class": "Pet",
                     "IsTitanic": true,
                     "MaxUnitPrice": 1500000001
                 },
