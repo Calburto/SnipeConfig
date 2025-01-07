@@ -2378,18 +2378,13 @@
                     "RapBuy": true
                 },
                 {
-                    "Class": "Fruit",
-                    "MaxUnitPrice": 5,
-                    "RapBuy": true
-                },
-                {
                     "Class": "Egg",
                     "MaxUnitPrice": 1000000,
                     "RapBuy": true
                 },
                 {
                     "Class": "Hoverboard",
-                    "MaxUnitPrice": 1000000,
+                    "MaxUnitPrice": 10000000,
                     "RapBuy": true
                 }
             ]
