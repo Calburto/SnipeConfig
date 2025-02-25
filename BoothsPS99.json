@@ -2,11 +2,11 @@
     "Booths": {
         "Extra": {
             "BoothServerHop": true,
-            "BoothServerHopTime": "30",
-            "BoothServerHopTimeMax": "60",
+            "BoothServerHopTime": "15",
+            "BoothServerHopTimeMax": "30",
             "HopToMaxPing": "100",
-            "HopToMinFps": "10",
-            "MinimumPlayers": "30",
+            "HopToMinFps": "5",
+            "MinimumPlayers": "20",
             "TeleportToBooth": true
         },
         "Selling": {
@@ -2540,7 +2540,7 @@
     },
                 {
                     "Class": "Card",
-                    "MaxUnitPrice": 300000,
+                    "MaxUnitPrice": 2000,
                     "RapBuy": true
                 },
                 {
