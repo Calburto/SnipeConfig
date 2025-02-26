@@ -2539,6 +2539,11 @@
         "MaxUnitPrice": 211622219
     },
                 {
+                    "Class": "Card",
+                    "MaxUnitPrice": 300000,
+                    "RapBuy": true
+                }
+                {
                     "Class": "Hoverboard",
                     "MaxUnitPrice": 10000000,
                     "RapBuy": true
