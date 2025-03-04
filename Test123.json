@@ -202,6 +202,18 @@
                     "RapBuy": true
                 },
                 {
+                    "Class": "Card",
+                    "IsTitanic": true,
+                    "MaxUnitPrice": 2500000,
+                    "RapBuy": true
+                },
+                {
+                    "Class": "Card",
+                    "IsHuge": true,
+                    "MaxUnitPrice": 200000,
+                    "RapBuy": true
+                },
+                {
                     "Class": "Pet",
                     "Rarity": [
                         "Celestial",
@@ -2578,11 +2590,6 @@
         "Id": "Black Hole",
         "MaxUnitPrice": 271512626
     },
-                {
-                    "Class": "Card",
-                    "MaxUnitPrice": 300000,
-                    "RapBuy": true
-                },
                 {
                     "Class": "Hoverboard",
                     "MaxUnitPrice": 10000000,
