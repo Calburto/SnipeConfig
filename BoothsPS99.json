@@ -52,6 +52,20 @@
                     "MaxStackSize": 5000
                 },
                 {
+                    "Class": "Card",
+                    "IsTitanic": true,
+                    "UnitPrice": 0
+                },
+                {
+                    "Class": "Card",
+                    "IsHuge": true,
+                    "UnitPrice": 0
+                },
+                {
+                    "Class": "Card",
+                    "UnitPrice": 0
+                },
+                {
                     "Class": "XPPotion",
                     "UnitPrice": 0,
                     "MaxStackSize": 5000
